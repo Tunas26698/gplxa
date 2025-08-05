@@ -1,0 +1,2782 @@
+[
+  {
+    "id": 1,
+    "question": "Câu 1. Phần của đường bộ được sử dụng cho phương tiện giao thông đường bộ đi lại là gì?",
+    "answers": [
+      "Phần mặt đường và lề đường.",
+      "Phần đường xe chạy.",
+      "Phần đường xe cơ giới."
+    ],
+    "correct_answer": "Phần đường xe chạy.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 2,
+    "question": "Câu 2. Làn đường là gì?",
+    "answers": [
+      "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, sử dụng cho xe chạy.",
+      "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ chiều rộng cho xechạy an toàn.",
+      "Là đường cho xe ô tô chạy, dừng, đỗ an toàn."
+    ],
+    "correct_answer": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ chiều rộng cho xechạy an toàn.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 3,
+    "question": "Câu 3. Khổ giới hạn của đường bộ được hiểu như thế nào là đúng?",
+    "answers": [
+      "Khổ giới hạn của đường bộ là khoảng trống có kích thước giới hạn về chiềurộng, chiều cao củađường bộ để các xe, bao gồm cả hàng hoá xếp trên xe đi qua được an toàn và được xác định theo quychuẩn, tiêu chuẩn kỹ thuật của đường bộ.",
+      "Là khoảng trống có kích thước giới hạn về chiều rộng của đường, cầu, bến phà, hầm trên đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn",
+      "Là khoảng trống có kích thước giới hạn về chiều cao của cầu, bến phà, hầm trên đường bộ để các xe đi qua được an toàn."
+    ],
+    "correct_answer": "Khổ giới hạn của đường bộ là khoảng trống có kích thước giới hạn về chiềurộng, chiều cao củađường bộ để các xe, bao gồm cả hàng hoá xếp trên xe đi qua được an toàn và được xác định theo quychuẩn, tiêu chuẩn kỹ thuật của đường bộ.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 4,
+    "question": "Câu 4. Dải phân cách được lắp đặt để làm gì?",
+    "answers": [
+      "Để phân chia các làn đường dành cho xe cơ giới và xe thô sơ trên đường cao tốc.",
+      "Để phân chia phần đường xe chạy thành hai chiều riêng biệt hoặc để phân chiaphần đường dànhcho xe cơ giới và xe thô sơ hoặc của nhiều loại xe khác nhau trên cùng một chiều đường.",
+      "Để phân tách phần đường xe chạy và hành lang an toàn giao thông."
+    ],
+    "correct_answer": "Để phân chia phần đường xe chạy thành hai chiều riêng biệt hoặc để phân chiaphần đường dànhcho xe cơ giới và xe thô sơ hoặc của nhiều loại xe khác nhau trên cùng một chiều đường.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 5,
+    "question": "Câu 5. Vạch kẻ đường là gì?",
+    "answers": [
+      "Là báo hiệu đường bộ để hỗ trợ cảnh báo nguy hiểm cho người tham gia giao thông đường bộ.",
+      "Là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.",
+      "Là báo hiệu cho người tham gia giao thông đường bộ về các thông tin của đường bộ.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 6,
+    "question": "Câu 6. Người điều khiển phương tiện tham gia giao thông đường bộ được hiểu như thế nào là đúng?",
+    "answers": [
+      "Là người điều khiển xe cơ giới, người điều khiển xe thô sơ, người điều khiển xe máy chuyên dùng.",
+      "Là người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Là người điều khiển xe cơ giới, người điều khiển xe thô sơ, người điều khiển xe máy chuyên dùng.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 7,
+    "question": "Câu 7. Người lái xe được hiểu như thế nào là đúng?",
+    "answers": [
+      "Là người điều khiển xe cơ giới.",
+      "Là người điều khiển xe thô sơ.",
+      "Là người điều khiển xe máy chuyên dùng."
+    ],
+    "correct_answer": "Là người điều khiển xe cơ giới.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 8,
+    "question": "Câu 8. Trong nhóm các phương tiện giao thông đường bộ dưới đây, nhóm phương tiện nào là xe cơ giới?",
+    "answers": [
+      "Xe ô tô; máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy; xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng; xe đạp, xe đạp máy, xe đạp điện.",
+      "Xe ô tô; rơ moóc được kéo bởi xe ô tô; sơ mi rơ moóc được kéo bởi ô tô đầu kéo; xe chở người bốnbánh có gắn động cơ; xe chở hàng bốn bánh có gắn động cơ; xe mô tô, xe gắn máy và các loại xe tươngtự."
+    ],
+    "correct_answer": "Xe ô tô; rơ moóc được kéo bởi xe ô tô; sơ mi rơ moóc được kéo bởi ô tô đầu kéo; xe chở người bốnbánh có gắn động cơ; xe chở hàng bốn bánh có gắn động cơ; xe mô tô, xe gắn máy và các loại xe tươngtự.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 9,
+    "question": "Câu 9. Trong nhóm các phương tiện giao thông đường bộ dưới đây, nhóm phương tiện nào là xe thô sơ?",
+    "answers": [
+      "Xe đạp, xe đạp máy, xe đạp điện; xe xích lô; xe lăn dùng cho người khuyết tật; xe vật nuôi kéo vàcác loại xe tương tự.",
+      "Xe đạp (kể cả xe đạp máy, xe đạp điện), xe gắn máy, xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng.",
+      "Xe ô tô, máy kéo, rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo."
+    ],
+    "correct_answer": "Xe đạp, xe đạp máy, xe đạp điện; xe xích lô; xe lăn dùng cho người khuyết tật; xe vật nuôi kéo vàcác loại xe tương tự.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 10,
+    "question": "Câu 10. Phương tiện giao thông đường bộ gồm những loại nào?",
+    "answers": [
+      "Phương tiện giao thông cơ giới đường bộ.",
+      "Phương tiện giao thông thô sơ đường bộ, xe máy chuyên dùng và các loại xe tương tự.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 11,
+    "question": "Câu 11. Người tham gia giao thông đường bộ gồm những đối tượng nào?",
+    "answers": [
+      "Người điều khiển, người được chở trên phương tiện tham gia giao thông đường bộ.",
+      "Người điều khiển, dẫn dắt vật nuôi trên đường bộ; người đi bộ trên đường bộ.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 12,
+    "question": "Câu 12. Người điều khiển phương tiện tham gia giao thông đường bộ gồm những đối tượng nào dưới đây?",
+    "answers": [
+      "Người điều khiển xe cơ giới, người điều khiển xe thô sơ.",
+      "Người điều khiển xe máy chuyên dùng.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 13,
+    "question": "Câu 13. Người điều khiển giao thông đường bộ được hiểu như thế nào là đúng?",
+    "answers": [
+      "Là người điều khiển phương tiện tham gia giao thông đường bộ.",
+      "Là Cảnh sát giao thông và người được giao nhiệm vụ hướng dẫn giao thôngtrên đường bộ.",
+      "Là người tham gia giao thông đường bộ."
+    ],
+    "correct_answer": "Là Cảnh sát giao thông và người được giao nhiệm vụ hướng dẫn giao thôngtrên đường bộ.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 14,
+    "question": "Câu 14. Hành vi nào dưới đây bị nghiêm cấm?",
+    "answers": [
+      "Sử dụng xe đạp đi trên các tuyến quốc lộ.",
+      "Rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 15,
+    "question": "Câu 15. Hành vi đưa xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ nào dưới đây bị cấm?",
+    "answers": [
+      "Không có chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
+      "Hết niên hạn sử dụng.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 16,
+    "question": "Câu 16. Tổ chức đua xe được phép thực hiện khi nào?",
+    "answers": [
+      "Trên đường phố không có người qua lại.",
+      "Được người dân ủng hộ.",
+      "Được cơ quan có thẩm quyền cấp phép."
+    ],
+    "correct_answer": "Được cơ quan có thẩm quyền cấp phép.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 17,
+    "question": "Câu 17. Hành vi đua xe trái phép bị xử lý như thế nào?",
+    "answers": [
+      "Chỉ bị nhắc nhở.",
+      "Tùy theo mức độ của hành vi vi phạm có thể bị xử lý hành chính hoặc xử lý hình sự."
+    ],
+    "correct_answer": "Tùy theo mức độ của hành vi vi phạm có thể bị xử lý hành chính hoặc xử lý hình sự.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 18,
+    "question": "Câu 18. Người điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn có bị nghiêm cấm không?",
+    "answers": [
+      "Bị nghiêm cấm.",
+      "Không bị nghiêm cấm.",
+      "Không bị nghiêm cấm, nếu nồng độ cồn trong máu ở mức nhẹ, có thể điều khiển phương tiện tham gia giao thông."
+    ],
+    "correct_answer": "Bị nghiêm cấm.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 19,
+    "question": "Câu 19. Theo Luật Phòng chống tác hại của rượu, bia, đối tượng nào dưới đây bị cấm sử dụng rượu, bia khi tham gia giao thông?",
+    "answers": [
+      "Người điều khiển xe ô tô, xe mô tô, xe đạp, xe gắn máy.",
+      "Người được chở trên xe cơ giới.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Người điều khiển xe ô tô, xe mô tô, xe đạp, xe gắn máy.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 20,
+    "question": "Câu 20. Hành vi giao xe ô tô, mô tô cho người nào sau đây tham gia giao thông đường bộ bị nghiêm cấm?",
+    "answers": [
+      "Người chưa đủ tuổi theo quy định.",
+      "Người không có giấy phép lái xe.",
+      "Người có giấy phép lái xe nhưng đã bị trừ hết 12 điểm.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Cả ba ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 21,
+    "question": "Câu 21. Hành vi nào sau đây bị nghiêm cấm?",
+    "answers": [
+      "Điều khiển xe cơ giới lạng lách, đánh võng, rú ga liên tục khi tham gia giao thông trên đường.",
+      "Xúc phạm, đe dọa, cản trở, chống đối hoặc không chấp hành hiệu lệnh, hướng dẫn, yêu cầu kiểm tra, kiểm soát của người thi hành công vụ về bảo đảm trật tự, an toàn giao thông đường bộ.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 22,
+    "question": "Câu 22. Các hành vi nào sau đây bị cấm đối với phương tiện tham gia giao thông đường bộ?",
+    "answers": [
+      "Cải tạo xe ô tô loại khác thành xe ô tô chở người phục vụ mục đích quốc phòng, an ninh.",
+      "Cải tạo trái phép; cố ý can thiệp làm sai lệch chỉ số trên đồng hồ báo quãng đường đã chạy củaxe ô tô; cắt, hàn, tẩy xóa, đục sửa, đóng lại trái phép số khung,số động cơ của xe cơ giới, xe máychuyên dùng."
+    ],
+    "correct_answer": "Cải tạo trái phép; cố ý can thiệp làm sai lệch chỉ số trên đồng hồ báo quãng đường đã chạy củaxe ô tô; cắt, hàn, tẩy xóa, đục sửa, đóng lại trái phép số khung,số động cơ của xe cơ giới, xe máychuyên dùng.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 23,
+    "question": "Câu 23. Hành vi nào sau đây bị cấm?",
+    "answers": [
+      "Lắp đặt, sử dụng thiết bị âm thanh, ánh sáng trên xe cơ giới, xe máy chuyên dùng gây mất trật tự, an toàn giao thông đường bộ.",
+      "Cản trở người, phương tiện tham gia giao thông trên đường bộ; ném gạch, đất, đá, cát hoặc vật thể khác vào người, phương tiện đang tham gia giao thông trên đường bộ.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 24,
+    "question": "Câu 24. Việc sản xuất, sử dụng, mua, bán trái phép biển số xe có bị nghiêm cấm hay không?",
+    "answers": [
+      "Không bị nghiêm cấm.",
+      "Bị nghiêm cấm.",
+      "Bị nghiêm cấm tuỳ trường hợp."
+    ],
+    "correct_answer": "Bị nghiêm cấm.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 25,
+    "question": "Câu 25. Khi điều khiển phương tiện tham gia giao thông, những hành vi nào dưới đây bị nghiêm cấm?",
+    "answers": [
+      "Thay đổi tốc độ của xe nhiều lần.",
+      "Điều khiển phương tiện sau 23 giờ trong ngày.",
+      "Lạng lách, đánh võng, rú ga liên tục."
+    ],
+    "correct_answer": "Lạng lách, đánh võng, rú ga liên tục.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 26,
+    "question": "Câu 26. Có bao nhiêu nhóm biển báo hiệu đường bộ?",
+    "answers": [
+      "Ba nhóm: Biển báo cấm, biển báo nguy hiểm và biển hiệu lệnh.",
+      "Bốn nhóm: Biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển phụ.",
+      "Năm nhóm: Biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh, biển chỉ dẫn, biển phụ."
+    ],
+    "correct_answer": "Năm nhóm: Biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh, biển chỉ dẫn, biển phụ.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 27,
+    "question": "Câu 27. Tại nơi có vạch kẻ đường hoặc tại nơi mà người đi bộ, xe lăn của người khuyết tật đang qua đường, người điều khiển phương tiện tham gia giao thông phải thực hiện như thế nào?",
+    "answers": [
+      "Giảm tốc độ và nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường đảm bảo an toàn.",
+      "Quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn cho người đi bộ, xe lăn của ngườikhuyết tật qua đường.",
+      "Quan sát, tăng tốc độ và điều khiển phương tiện nhanh chóng đi qua."
+    ],
+    "correct_answer": "Quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn cho người đi bộ, xe lăn của ngườikhuyết tật qua đường.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 28,
+    "question": "Câu 28. Người điều khiển xe mô tô phải phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp nào dưới đây?",
+    "answers": [
+      "Đường hẹp, đường vòng, đường quanh co, đường đèo, dốc.",
+      "Nơi cầu, cống hẹp, đập tràn, đường ngầm, hầm chui, hầm đường bộ.",
+      "Trời mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi ảnh hưởng đến an toàn giao thông đường bộ.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Cả ba ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 29,
+    "question": "Câu 29. Khi gặp hiệu lệnh điều khiển của Cảnh sát giao thông như hình dưới đây thì người tham gia giao thông đường bộ phải đi như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Người tham gia giao thông đường bộ ở các hướng phải dừng lại.",
+      "Người tham gia giao thông đường bộ ở các hướng được đi theo chiều gậy chỉ của Cảnh sát giao thông.",
+      "Người tham gia giao thông đường bộ ở phía trước và phía sau người điều khiển được đi tất cả các hướng; người tham gia giao thông đường bộ ở phía bên phải và phía bên trái người điều khiển phải dừng lại.",
+      "Người tham gia giao thông đường bộ ở phía trước và phía sau người điều khiển phải dừng lại; ngườitham gia giao thông đường bộ ở phía bên phải và phía bêntrái người điều khiển được đi tất cả cáchướng."
+    ],
+    "correct_answer": "Người tham gia giao thông đường bộ ở phía trước và phía sau người điều khiển phải dừng lại; ngườitham gia giao thông đường bộ ở phía bên phải và phía bêntrái người điều khiển được đi tất cả cáchướng.",
+    "image": "images/image97.jpg",
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 30,
+    "question": "Câu 30. Khi gặp hiệu lệnh điều khiển của Cảnh sát giao thông như hình dưới đây thì người tham gia giao thông đường bộ phải đi như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "0. Khi gặp hiệu lệnh điều khiển của Cảnh sát giao thông như hình dưới đây thì người tham gia giao thông đường bộ phải đi như thế nào là đúng quy tắc giao thông?"
+    ],
+    "correct_answer": "0. Khi gặp hiệu lệnh điều khiển của Cảnh sát giao thông như hình dưới đây thì người tham gia giao thông đường bộ phải đi như thế nào là đúng quy tắc giao thông?",
+    "image": "images/image117.jpg",
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 31,
+    "question": "Câu 31. Khi hiệu lệnh của người điều khiển giao thông trái với tín hiệu đèn giao thông hoặc biển báo hiệu đường bộ thì người tham gia giao thông đường bộ phải chấp hành báo hiệu đường bộ nào dưới đây?",
+    "answers": [
+      "Theo hiệu lệnh của người điều khiển giao thông.",
+      "Theo tín hiệu đèn giao thông.",
+      "Theo biển báo hiệu đường bộ."
+    ],
+    "correct_answer": "Theo hiệu lệnh của người điều khiển giao thông.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 32,
+    "question": "Câu 32. Khi ở một vị trí vừa có biển báo hiệu đặt cố định vừa có biển báo hiệu tạm thời mà hai biển có ý nghĩa khác nhau, người tham gia giao thông đường bộ phải chấp hành hiệu lệnh của biển báo hiệu nào?",
+    "answers": [
+      "Biển báo hiệu đặt cố định.",
+      "Biển báo hiệu tạm thời.",
+      "Theo quyết định của người tham gia giao thông nhưng phải bảo đảm an toàn."
+    ],
+    "correct_answer": "Biển báo hiệu tạm thời.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 33,
+    "question": "Câu 33. Tại nơi đường giao nhau, khi đèn điều khiển giao thông có tín hiệu màu vàng, người điều khiển phương tiện tham gia giao thông phải chấp hành như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi quavạch dừng mà tínhiệu đèn màu vàng thì được đi tiếp; trường hợp tín hiệu đèn màuvàng nhấp nháy, người điều khiểnphương tiện tham gia giao thông đường bộđược đi nhưng phải quan sát, giảm tốc độ hoặc dừng lạinhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác.",
+      "Tăng tốc độ nhanh chóng vượt qua nút giao.",
+      "Quan sát, giảm tốc độ, từ từ vượt qua nút giao."
+    ],
+    "correct_answer": "Dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi quavạch dừng mà tínhiệu đèn màu vàng thì được đi tiếp; trường hợp tín hiệu đèn màuvàng nhấp nháy, người điều khiểnphương tiện tham gia giao thông đường bộđược đi nhưng phải quan sát, giảm tốc độ hoặc dừng lạinhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 34,
+    "question": "Câu 34. Người lái xe trên đường cần chấp hành quy định về tốc độ tối đa như thế nào?",
+    "answers": [
+      "Chỉ lớn hơn tốc độ tối đa cho phép khi đường vắng.",
+      "Chỉ lớn hơn tốc độ tối đa cho phép khi vào ban đêm.",
+      "Không vượt quá tốc độ tối đa cho phép."
+    ],
+    "correct_answer": "Không vượt quá tốc độ tối đa cho phép.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 35,
+    "question": "Câu 35. Phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi như thế nào?",
+    "answers": [
+      "Đi về bên trái theo chiều đi của mình.",
+      "Đi về bên phải theo chiều đi của mình.",
+      "Đi ở bất cứ bên nào nhưng phải bấm đèn cảnh báo nguy hiểm để báo hiệu cho các phương tiện khác."
+    ],
+    "correct_answer": "Đi về bên phải theo chiều đi của mình.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 36,
+    "question": "Câu 36. Trên một chiều đường có vạch kẻ phân làn đường, người lái xe cơ giới, xe máy chuyên dùng phải điều khiển xe đi trên làn đường nào?",
+    "answers": [
+      "Đi trên làn đường bên phải trong cùng.",
+      "Đi trên làn đường bên trái.",
+      "Đi ở bất cứ làn nào nhưng phải bảo đảm tốc độ cho phép."
+    ],
+    "correct_answer": "Đi trên làn đường bên trái.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 37,
+    "question": "Câu 37. Người lái xe phải giảm tốc độ, có tín hiệu rẽ phải và đi sát về bên phải của phần đường xe chạy trong các trường hợp nào dưới đây?",
+    "answers": [
+      "Khi xe chạy phía trước có tín hiệu vượt xe khác.",
+      "Khi phía trước có xe chạy ngược chiều.",
+      "Khi xe sau xin vượt nếu đủ điều kiện an toàn.",
+      "Khi xe sau có tín hiệu vượt bên phải."
+    ],
+    "correct_answer": "Khi xe sau xin vượt nếu đủ điều kiện an toàn.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 38,
+    "question": "Câu 38. Vượt xe là gì?",
+    "answers": [
+      "Là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có mộtlàn đường dành choxe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước.",
+      "Là tình huống giao thông trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước theo quy tắc sử dụng làn đường."
+    ],
+    "correct_answer": "Là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có mộtlàn đường dành choxe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 39,
+    "question": "Câu 39. Người lái xe được phép vượt xe trên cầu hẹp có một làn đường, đường cong có tầm nhìn bị hạn chế hay không?",
+    "answers": [
+      "Được phép vượt khi đường vắng.",
+      "Không được phép vượt.",
+      "Được phép vượt khi có việc gấp."
+    ],
+    "correct_answer": "Không được phép vượt.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 40,
+    "question": "Câu 40. Muốn vượt xe phía trước, người lái xe mô tô phải có tín hiệu như thế nào dưới đây để bảo đảm an toàn?",
+    "answers": [
+      "Bấm còi liên tục để xe phía trước biết xe mình xin vượt.",
+      "Rú ga liên tục để xe phía trước biết xe mình xin vượt.",
+      "Báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi."
+    ],
+    "correct_answer": "Báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 41,
+    "question": "Câu 41. Khi lái xe trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh trừ các khu vực có biển cấm sử dụng còi, người lái xe được sử dụng còi trong thời gian nào?",
+    "answers": [
+      "Từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau.",
+      "Từ 05 giờ đến 22 giờ.",
+      "Từ 23 giờ ngày hôm trước đến 05 giờ sáng hôm sau."
+    ],
+    "correct_answer": "Từ 05 giờ đến 22 giờ.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 42,
+    "question": "Câu 42. Người lái xe sử dụng đèn như thế nào khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động?",
+    "answers": [
+      "Chỉ bật đèn chiếu xa (đèn pha).",
+      "Bật đèn chiếu xa (đèn pha) khi đường vắng, bật đèn chiếu gần (đèn cốt) khi có xe đi ngược chiều.",
+      "Chỉ bật đèn chiếu gần (đèn cốt)."
+    ],
+    "correct_answer": "Chỉ bật đèn chiếu gần (đèn cốt).",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 43,
+    "question": "Câu 43. Khi điều khiển phương tiện tham gia giao thông, hành vi nào sau đây bị cấm?",
+    "answers": [
+      "​Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác.",
+      "Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp chở người đi làm nhiệm vụ cứu nạn, cứu hộ, phòng, chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ khẩn cấp."
+    ],
+    "correct_answer": "​Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 44,
+    "question": "Câu 44. Người lái xe không được vượt xe khác khi gặp trường hợp nào dưới đây?",
+    "answers": [
+      "Trên cầu hẹp có một làn đường; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt;khi gặp xe ưu tiên.",
+      "Trên cầu có từ 02 làn xe trở lên.",
+      "Trên đường có 02 làn đường được phân chia làn bằng vạch kẻ nét đứt."
+    ],
+    "correct_answer": "Trên cầu hẹp có một làn đường; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt;khi gặp xe ưu tiên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 45,
+    "question": "Câu 45. Nơi nào cấm quay đầu xe?",
+    "answers": [
+      "Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm.",
+      "Tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường cao tốc, trong hầm đường bộ, trên đường một chiều.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 46,
+    "question": "Câu 46. Trước khi cho xe chuyển hướng, người lái xe phải làm gì để bảo đảm an toàn giao thông?",
+    "answers": [
+      "Phải quan sát, bảo đảm khoảng cách an toàn với xe phía sau.",
+      "Giảm tốc độ và có tín hiệu báo hướng rẽ.",
+      "Chuyển dần sang làn gần nhất với hướng rẽ. Khi bảo đảm an toàn, không gây trở ngại cho người và phương tiện khác mới được chuyển hướng.",
+      "Cả ba ý trên"
+    ],
+    "correct_answer": "Cả ba ý trên",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 47,
+    "question": "Câu 47. Khi chuyển làn đường, người lái xe phải bật đèn tín hiệu báo rẽ như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Khi bắt đầu chuyển làn đường.",
+      "Trước khi thay đổi làn đường.",
+      "Sau khi thay đổi làn đường."
+    ],
+    "correct_answer": "Trước khi thay đổi làn đường.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 48,
+    "question": "Câu 48. Người điều khiển phương tiện tham gia giao thông không được dừng xe, đỗ xe ở những vị trí nào sau đây?",
+    "answers": [
+      "Trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước.",
+      "Trong phạm vi an toàn của đường sắt.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 49,
+    "question": "Câu 49. Người điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?",
+    "answers": [
+      "Được phép.",
+      "Nếu phương tiện được kéo, đẩy có khối lượng nhỏ hơn phương tiện của mình.",
+      "Tùy trường hợp."
+    ],
+    "correct_answer": "Được phép.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 50,
+    "question": "Câu 50. Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào sau đây không được phép?",
+    "answers": [
+      "Buông cả hai tay; đứng, nằm trên xe điều khiển xe; sử dụng chân chống hoặc vật khác quệt xuốngđường khi xe đang chạy.",
+      "Chở tối đa hai người phía sau khi chở người bệnh đi cấp cứu, áp giải người có hành vi vi phạm pháp luật, trẻ em dưới 12 tuổi và người già yếu hoặc người khuyết tật."
+    ],
+    "correct_answer": "Buông cả hai tay; đứng, nằm trên xe điều khiển xe; sử dụng chân chống hoặc vật khác quệt xuốngđường khi xe đang chạy.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 51,
+    "question": "Câu 51. Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào sau đây không được phép?",
+    "answers": [
+      "Buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống hoặc vật khác quệtxuống đường khi xe đang chạy.",
+      "Sử dụng xe để chở người hoặc hàng hóa; để chân chạm xuống đất khi khởi hành.",
+      "Đội mũ bảo hiểm; chạy xe đúng tốc độ quy định và chấp hành đúng quy tắc giao thông đường bộ.",
+      "Chở người ngồi sau dưới 16 tuổi."
+    ],
+    "correct_answer": "Buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống hoặc vật khác quệtxuống đường khi xe đang chạy.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 52,
+    "question": "Câu 52. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ không được thực hiện hành vi nào sau đây?",
+    "answers": [
+      "Mang, vác vật cồng kềnh.",
+      "Bám, kéo hoặc đẩy các phương tiện khác.",
+      "Dùng tay cầm điện thoại hoặc các thiết bị điện tử khác.",
+      "Ý 1 và ý 2."
+    ],
+    "correct_answer": "Ý 1 và ý 2.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 53,
+    "question": "Câu 53. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ có được bám, kéo hoặc đẩy các phương tiện khác không?",
+    "answers": [
+      "Được phép.",
+      "Được bám trong trường hợp phương tiện của mình bị hỏng.",
+      "Được kéo, đẩy trong trường hợp phương tiện khác bị hỏng.",
+      "Không được phép."
+    ],
+    "correct_answer": "Không được phép.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 54,
+    "question": "Câu 54. Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải thực hiện quy định nào dưới đây?",
+    "answers": [
+      "Đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách.",
+      "Người lái xe phải đội mũ bảo hiểm, người được chở trên xe không nhất thiết phải đội mũ bảo hiểm.",
+      "Phải đội mũ bảo hiểm nhưng không nhất thiết phải cài quai."
+    ],
+    "correct_answer": "Đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 55,
+    "question": "Câu 55. Người lái xe mô tô hai bánh, xe gắn máy được phép chở tối đa hai người trong những trường hợp nào?",
+    "answers": [
+      "Chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 12 tuổi; ngườigià yếu hoặc người khuyết tật.",
+      "Người đã uống rượu, bia; người trong cơ thể có chất ma tuý.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 12 tuổi; ngườigià yếu hoặc người khuyết tật.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 56,
+    "question": "Câu 56. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi nào dưới đây?",
+    "answers": [
+      "Đi xe dàn hàng ngang; buông cả hai tay.",
+      "Sử dụng xe để kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang, vác và chở vật cồng kềnh; chở người đứng trên xe, giá đèo hàng hoặc ngồi trên tay lái; xếp hàng hóa trên xe quá giới hạn quy định.",
+      "Ngồi về một bên điều khiển xe; đứng, nằm trên xe điều khiển xe; thay người lái xe khi xe đang chạy; quay người về phía sau để điều khiển xe hoặc bịt mắt điều khiển xe; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Cả ba ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 57,
+    "question": "Câu 57. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi nào sau đây?",
+    "answers": [
+      "Đi xe dàn hàng ngang; đi xe vào phần đường dành cho người đi bộ và phương tiện khác.",
+      "Sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 58,
+    "question": "Câu 58. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện hành vi nào sau đây?",
+    "answers": [
+      "Đi trên phần đường, làn đường quy định, chấp hành hiệu lệnh của người điều khiển giao thông, đèn tín hiệu giao thông.",
+      "Đi xe dàn hàng ngang, đi xe vào phần đường dành cho người đi bộ.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Đi xe dàn hàng ngang, đi xe vào phần đường dành cho người đi bộ.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 59,
+    "question": "Câu 59. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ có được sử dụng ô khi trời mưa hay không?",
+    "answers": [
+      "Được sử dụng.",
+      "Chỉ người ngồi sau được sử dụng.",
+      "Không được sử dụng.",
+      "Được sử dụng nếu không có áo mưa."
+    ],
+    "correct_answer": "Không được sử dụng.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 60,
+    "question": "Câu 60. Người được chở trên xe mô tô có được kéo theo người đang điều khiển xe đạp hay không?",
+    "answers": [
+      "Chỉ được phép nếu cả hai đội mũ bảo hiểm.",
+      "Không được phép.",
+      "Chỉ được thực hiện trên đường vắng."
+    ],
+    "correct_answer": "Không được phép.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 61,
+    "question": "Câu 61. Trường hợp người được chở trên xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy không đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" hoặc không cài quai đúng quy cách (trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 06 tuổi, áp giải người có hành vi vi phạm pháp luật) thì việc xử phạt vi phạm hành chính được quy định như thế nào?",
+    "answers": [
+      "Không bị xử phạt chỉ bị nhắc nhở.",
+      "Người được chở không bị xử phạt, chỉ xử phạt người điều khiển xe mô tô, xe gắn máy.",
+      "Người được chở bị xử phạt, không xử phạt người điều khiển xe mô tô, xe gắn máy.",
+      "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+    ],
+    "correct_answer": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 62,
+    "question": "Câu 62. Trong các trường hợp dưới đây, để bảo đảm an toàn khi tham gia giao thông, người lái xe mô tô cần thực hiện như thế nào?",
+    "answers": [
+      "Phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách, không sửdụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính).",
+      "Phải đội mũ bảo hiểm khi trời mưa gió hoặc trời quá nắng; có thể sử dụng ô, điện thoại di động, thiết bị âm thanh nhưng phải bảo đảm an toàn.",
+      "Phải đội mũ bảo hiểm khi cảm thấy mất an toàn giao thông hoặc khi chuẩn bị di chuyển quãng đường xa."
+    ],
+    "correct_answer": "Phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách, không sửdụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính).",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 63,
+    "question": "Câu 63. Thứ tự xuống phà như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Xe thô sơ, người đi bộ xuống trước, xe cơ giới, xe máy chuyên dùng xuống sau.",
+      "Xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ, người đi bộ xuống sau.",
+      "Xe cơ giới, xe thô sơ xuống trước, xe máy chuyên dùng, người đi bộ xuống sau."
+    ],
+    "correct_answer": "Xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ, người đi bộ xuống sau.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 64,
+    "question": "Câu 64. Khi lái xe trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau, nếu cần vượt một xe khác, người lái xe phải báo hiệu như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Chỉ được báo hiệu bằng còi.",
+      "Phải báo hiệu bằng cả còi và đèn.",
+      "Chỉ được báo hiệu bằng đèn."
+    ],
+    "correct_answer": "Chỉ được báo hiệu bằng đèn.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 65,
+    "question": "Câu 65. Khi điều khiển xe chạy trên đường, biết có xe sau xin vượt, nếu đủ điều kiện an toàn người điều khiển phương tiện phải làm gì?",
+    "answers": [
+      "Tăng tốc độ và ra hiệu cho xe sau vượt, không được gây trở ngại cho xe xin vượt.",
+      "Giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương tiện tham gia giao thôngđường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đãvượt qua, không được cản trở đối với xe xin vượt.",
+      "Cho xe đi sát về bên trái của phần đường xe chạy và ra hiệu cho xe sau vượt, không được gây trở ngại cho xe xin vượt."
+    ],
+    "correct_answer": "Giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương tiện tham gia giao thôngđường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đãvượt qua, không được cản trở đối với xe xin vượt.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 66,
+    "question": "Câu 66. Trên đường không phân chia thành hai chiều xe chạy riêng biệt, người điều khiển phương tiện tham gia giao thông đường bộ phải tránh xe đi ngược chiều như thế nào để bảo đảm an toàn?",
+    "answers": [
+      "Giảm tốc độ và cho xe đi về bên phải theo chiều xe chạy của mình.",
+      "Một trong hai xe phải dừng lại cho xe kia đi qua mới được đi.",
+      "Tăng tốc độ, cho xe đi về bên phải theo chiều xe chạy của mình để nhanh chóng vượt qua."
+    ],
+    "correct_answer": "Giảm tốc độ và cho xe đi về bên phải theo chiều xe chạy của mình.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 67,
+    "question": "Câu 67. Khi tránh xe đi ngược chiều, các xe phải nhường đường như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe đi ngược chiều.",
+      "Xe xuống dốc phải nhường đường cho xe lên dốc.",
+      "Xe có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật phía trước.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Cả ba ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 68,
+    "question": "Câu 68. Người lái xe phải làm gì để bảo đảm an toàn khi lái xe trên đường cong có tầm nhìn bị hạn chế?",
+    "answers": [
+      "Quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn.",
+      "Đi sang làn đường của xe ngược chiều để mở rộng tầm nhìn và vượt xe khác.",
+      "Cho xe đi sát bên phải làn đường, bật tín hiệu báo hiệu để vượt bên phải xe khác."
+    ],
+    "correct_answer": "Quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 69,
+    "question": "Câu 69. Tại nơi đường giao nhau, người lái xe đang đi trên đường không ưu tiên, đường nhánh phải nhường đường như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Nhường đường cho xe đi ở bên phải mình tới.",
+      "Nhường đường cho xe đi ở bên trái mình tới.",
+      "Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới."
+    ],
+    "correct_answer": "Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 70,
+    "question": "Câu 70. Tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, người lái xe phải nhường đường như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Nhường đường cho xe đi đến từ bên phải.",
+      "Nhường đường cho xe đi đến từ bên trái.",
+      "Không phải nhường đường."
+    ],
+    "correct_answer": "Nhường đường cho xe đi đến từ bên trái.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 71,
+    "question": "Câu 71. Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Phải nhường đường cho xe đi đến từ bên phải.",
+      "Xe báo hiệu xin đường trước, xe đó được đi trước.",
+      "Phải nhường đường cho xe đi đến từ bên trái."
+    ],
+    "correct_answer": "Phải nhường đường cho xe đi đến từ bên phải.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 72,
+    "question": "Câu 72. Người lái xe phải nhanh chóng giảm tốc độ",
+    "answers": [
+      "Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác; xe của lực lượng quân sự, công an và kiểm sát; đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứu thương; xe hộ đê không có tín hiệu ưu tiên theo quy định.",
+      "Xe ưu tiên gồm xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn,cứu hộ và xe chữacháy của các lực lượng khác được huy động đi làm nhiệm vụchữa cháy; xe của lực lượng quân sự,công an và kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứuthương đi làm nhiệm vụ cấp cứu; xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắcphục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấptheo quy định củapháp luật; đoàn xe tang.",
+      "Xe ô tô, xe máy, đoàn xe đang diễu hành có tổ chức có báo tín hiệu xin vượt bằng còi và đèn."
+    ],
+    "correct_answer": "Xe ưu tiên gồm xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn,cứu hộ và xe chữacháy của các lực lượng khác được huy động đi làm nhiệm vụchữa cháy; xe của lực lượng quân sự,công an và kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứuthương đi làm nhiệm vụ cấp cứu; xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắcphục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấptheo quy định củapháp luật; đoàn xe tang.",
+    "image": null,
+    "chapter": null
+  },
+  {
+    "id": 73,
+    "question": "Câu 73. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải tuân thủ quy định nào dưới đây?",
+    "answers": [
+      "Giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường.",
+      "Tăng tốc độ và đi sát lề đường bên phải để nhường đường.",
+      "Giảm tốc độ, đi sát lề đường bên trái để nhường đường."
+    ],
+    "correct_answer": "Giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 74,
+    "question": "Câu 74. Khi đang lái xe, phía trước có một xe Cảnh sát giao thông không phát tín hiệu ưu tiên, người lái xe có được phép vượt hay không?",
+    "answers": [
+      "Không được vượt.",
+      "Được phép vượt ở phần đường dành cho người đi bộ qua đường.",
+      "Được vượt khi bảo đảm an toàn."
+    ],
+    "correct_answer": "Được vượt khi bảo đảm an toàn.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 75,
+    "question": "Câu 75. Khi đang lái xe, phía trước có một xe cứu thương đang phát tín hiệu ưu tiên, người lái xe có được phép vượt hay không?",
+    "answers": [
+      "Không được vượt.",
+      "Được vượt khi đang đi trên cầu.",
+      "Được phép vượt khi đi qua nơi giao nhau có ít phương tiện cùng tham gia giao thông.",
+      "Được vượt khi bảo đảm an toàn."
+    ],
+    "correct_answer": "Không được vượt.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 76,
+    "question": "Câu 76. Khi tới đường ngang không có người gác, chắn đường bộ, chuông, đèn tín hiệu, người tham gia giao thông đường bộ phải làm gì để bảo đảm an toàn?",
+    "answers": [
+      "Dừng lại về bên phải đường của mình, trước vạch dừng xe và quan sát hai phía, khi không cóphương tiện giao thông đường sắt tới mới được đi qua.",
+      "Quan sát hai phía, khi không có phương tiện giao thông đường sắt tới thì nhanh chóng đi qua.",
+      "Dừng lại khoảng cách tối thiểu 3 mét tính từ ray đường sắt gần nhất, khi không có phương tiện giao thông đường sắt tới thì nhanh chóng đi qua."
+    ],
+    "correct_answer": "Dừng lại về bên phải đường của mình, trước vạch dừng xe và quan sát hai phía, khi không cóphương tiện giao thông đường sắt tới mới được đi qua.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 77,
+    "question": "Câu 77. Tại đường ngang, cầu chung đường sắt, khi có hiệu lệnh của nhân viên gác chắn, đèn đỏ sáng nhấp nháy, chuông kêu, chắn đường bộ đang dịch chuyển hoặc đã đóng, người tham gia giao thông đường bộ phải làm gì để bảo đảm an toàn?",
+    "answers": [
+      "Dừng lại về bên trái đường của mình, trước vạch dừng xe.",
+      "Dừng lại giữa đường của mình, trước vạch dừng xe.",
+      "Dừng lại về bên phải đường của mình, trước vạch dừng xe."
+    ],
+    "correct_answer": "Dừng lại về bên phải đường của mình, trước vạch dừng xe.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 78,
+    "question": "Câu 78. Người tham gia giao thông đường bộ phải dừng lại về bên phải đường của mình trước vạch dừng xe tại đường ngang, cầu chung đường sắt khi có báo hiệu nào dưới đây?",
+    "answers": [
+      "Hiệu lệnh của nhân viên gác chắn.",
+      "Đèn đỏ sáng nhấp nháy, chuông kêu.",
+      "Chắn đường bộ đang dịch chuyển hoặc đã đóng.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Cả ba ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 79,
+    "question": "Câu 79. Người điều khiển phương tiện tham gia giao thông trong hầm đường bộ ngoài việc phải tuân thủ các quy tắc giao thông còn phải thực hiện những quy định nào dưới đây?",
+    "answers": [
+      "Xe cơ giới, xe máy chuyên dùng phải bật đèn chiếu gần; xe thô sơ phải bật đèn hoặc có vật phát sángbáo hiệu; không dừng xe, đỗ xe trong hầm đường bộ; trườnghợp gặp sự cố kỹ thuật hoặc bất khảkháng khác buộc phải dừng xe, đỗ xe, người lái xe, người điều khiển xe máy chuyên dùng phải đưa xevào vị trí dừng xe, đỗ xe khẩn cấp, nếu không di chuyển được, phải có báo hiệu bằng đèn khẩn cấp vàđặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách bảo đảm an toàn.",
+      "Xe cơ giới, xe máy chuyên dùng phải bật đèn chiếu xa; được dừng xe, đỗ xe khi cần thiết.",
+      "Phải cho xe chạy trên một làn đường và chỉ chuyển làn ở nơi được phép; được quay đầu xe, lùi xe khi cần thiết."
+    ],
+    "correct_answer": "Xe cơ giới, xe máy chuyên dùng phải bật đèn chiếu gần; xe thô sơ phải bật đèn hoặc có vật phát sángbáo hiệu; không dừng xe, đỗ xe trong hầm đường bộ; trườnghợp gặp sự cố kỹ thuật hoặc bất khảkháng khác buộc phải dừng xe, đỗ xe, người lái xe, người điều khiển xe máy chuyên dùng phải đưa xevào vị trí dừng xe, đỗ xe khẩn cấp, nếu không di chuyển được, phải có báo hiệu bằng đèn khẩn cấp vàđặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách bảo đảm an toàn.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 80,
+    "question": "Câu 80. Người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp nào dưới đây?",
+    "answers": [
+      "Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường; chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế.",
+      "Nơi cầu, cống hẹp, đập tràn, đường ngầm, hầm chui, hầm đường bộ; có vật nuôi đi trên đường hoặc chăn thả ở ven đường.",
+      "Điểm dừng xe, đỗ xe trên đường bộ có khách đang lên, xuống xe.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Cả ba ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 81,
+    "question": "Câu 81. Người lái xe được phép vượt xe khác về bên phải trong trường hợp nào dưới đây?",
+    "answers": [
+      "Xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đườngmà không thể vượt bên trái.",
+      "Xe phía trước đang đi sát lề đường bên trái.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đườngmà không thể vượt bên trái.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 82,
+    "question": "Câu 82. Khi có xe xin vượt, người lái xe mô tô xử lý như thế nào nếu đủ điều kiện an toàn cho xe phía sau vượt?",
+    "answers": [
+      "Giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương tiện tham gia giao thôngđường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đãvượt qua, không được cản trở đối với xe xin vượt.",
+      "Lái xe vào lề đường bên trái và giảm tốc độ để xe phía sau vượt qua, không được gây trở ngại đối với xe xin vượt.",
+      "Tăng tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua."
+    ],
+    "correct_answer": "Giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương tiện tham gia giao thôngđường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đãvượt qua, không được cản trở đối với xe xin vượt.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 83,
+    "question": "Câu 83. Những trường hợp nào dưới đây không được đi trên đường cao tốc, trừ người, phương tiện giao thông đường bộ và thiết bị phục vụ việc quản lý, bảo trì đường cao tốc?",
+    "answers": [
+      "Xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn tốc độ tối thiểu quy định đối với đường cao tốc, xechở người bốn bánh có gắn động cơ, xe chở hàng bốn bánhcó gắn động cơ, xe mô tô, xe gắn máy, cácloại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ.",
+      "Xe máy chuyên dùng có tốc độ thiết kế lớn hơn tốc độ tối thiểu quy định đối với đường cao tốc.",
+      "Xe ô tô và xe máy chuyên dùng có tốc độ thiết kế lớn hơn 80 km/h."
+    ],
+    "correct_answer": "Xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn tốc độ tối thiểu quy định đối với đường cao tốc, xechở người bốn bánh có gắn động cơ, xe chở hàng bốn bánhcó gắn động cơ, xe mô tô, xe gắn máy, cácloại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 84,
+    "question": "Câu 84. Theo quy định về độ tuổi, người đủ bao nhiêu tuổi trở lên thì được cấp giấy phép lái xe mô tô hai bánh có dung tích xi lanh đến 125 cm3 và xe ô tô chở người đến 8 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg?",
+    "answers": [
+      "16 tuổi.",
+      "17 tuổi",
+      "18 tuổi."
+    ],
+    "correct_answer": "18 tuổi.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 85,
+    "question": "Câu 85. Người đủ 16 tuổi đến dưới 18 tuổi chỉ được điều khiển các loại xe nào dưới đây?",
+    "answers": [
+      "Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3.",
+      "Xe gắn máy.",
+      "Xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Xe gắn máy.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 86,
+    "question": "Câu 86. Người có Giấy phép lái xe mô tô hạng A1 không được phép điều khiển loại xe nào dưới đây?",
+    "answers": [
+      "Xe mô tô hai bánh có dung tích xi-lanh 125 cm3hoặc có công suất động cơ điện đến 11 kW.",
+      "Xe mô tô ba bánh.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Xe mô tô ba bánh.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 87,
+    "question": "Câu 87. Người có Giấy phép lái xe mô tô hạng A1 được cấp sau ngày 01/01/2025 được phép điều khiển loại xe nào dưới đây?",
+    "answers": [
+      "Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3hoặc có công suất động cơ điện đến 11 kW.",
+      "Xe mô tô ba bánh.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3hoặc có công suất động cơ điện đến 11 kW.",
+    "image": "images/image42.png",
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 88,
+    "question": "Câu 88. Người có Giấy phép lái xe mô tô hạng A được phép điều khiển loại xe nào dưới đây?",
+    "answers": [
+      "Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3hoặc có công suất động cơ điện đến 11 kW.",
+      "Xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3hoặc có công suất động cơ điện trên 11 kW.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 89,
+    "question": "Câu 89. Người lái xe khi tham gia giao thông đường bộ phải đảm bảo các điều kiện nào dưới đây?",
+    "answers": [
+      "Phải đủ tuổi, sức khỏe theo quy định của pháp luật; có giấy phép lái xe đang còn điểm, còn hiệu lựcphù hợp với loại xe đang điều khiển do cơ quan có thẩm quyền cấp (trừ người lái xe gắn máy).",
+      "Phải là người đứng tên trong đăng ký xe.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Phải đủ tuổi, sức khỏe theo quy định của pháp luật; có giấy phép lái xe đang còn điểm, còn hiệu lựcphù hợp với loại xe đang điều khiển do cơ quan có thẩm quyền cấp (trừ người lái xe gắn máy).",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 90,
+    "question": "Câu 90. Khi tham gia giao thông đường bộ, người lái xe phải mang theo các giấy tờ gì?",
+    "answers": [
+      "Chứng nhận đăng ký xe hoặc bản sao Chứng nhận đăng ký xe có chứng thực kèm bản gốc giấy tờ xác nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài còn hiệu lực trong trường hợp xe đang được thế chấp tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.",
+      "Giấy phép lái xe phù hợp với loại xe đang điều khiển; chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới theo quy định của pháp luật; chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới.",
+      "Trường hợp các giấy tờ nêu trên đã được tích hợp vào tài khoản định danh điện tử thì việc xuất trình, kiểm tra có thể thực hiện thông qua tài khoản định danh điện tử.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Cả ba ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 91,
+    "question": "Câu 91. Người có giấy phép lái xe chưa bị trừ hết 12 điểm, được phục hồi điểm giấy phép lái xe trong trường hợp nào sau đây?",
+    "answers": [
+      "Không được phục hồi.",
+      "Được phục hồi đủ 12 điểm, nếu không bị trừ điểm trong thời hạn 12 tháng từ ngày bị trừ điểm gầnnhất."
+    ],
+    "correct_answer": "Được phục hồi đủ 12 điểm, nếu không bị trừ điểm trong thời hạn 12 tháng từ ngày bị trừ điểm gầnnhất.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 92,
+    "question": "Câu 92. Người có giấy phép lái xe đã bị trừ hết điểm phải làm gì để phục hồi điểm giấy phép lái xe?",
+    "answers": [
+      "Không vi phạm pháp luật trật tự, an toàn giao thông đường bộ trong thời gian 12 tháng kể từ ngày bị trừ hết điểm.",
+      "Sau thời hạn ít nhất là 06 tháng kể từ ngày bị trừ hết điểm, người có giấy phép lái xe được tham giakiểm tra nội dung kiến thức pháp luật về trật tự, an toàn giao thôngđường bộ theo quy định, có kếtquả đạt yêu cầu thì được phục hồi đủ 12 điểm.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Sau thời hạn ít nhất là 06 tháng kể từ ngày bị trừ hết điểm, người có giấy phép lái xe được tham giakiểm tra nội dung kiến thức pháp luật về trật tự, an toàn giao thôngđường bộ theo quy định, có kếtquả đạt yêu cầu thì được phục hồi đủ 12 điểm.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 93,
+    "question": "Câu 93. Trách nhiệm của tổ chức, cá nhân đứng tên trong giấy chứng nhận đăng ký xe khi chưa thực hiện thu hồi chứng nhận đăng ký xe, biển số xe được quy định như thế nào?",
+    "answers": [
+      "Tiếp tục chịu trách nhiệm của chủ xe.",
+      "Không chịu trách nhiệm sau khi đã chuyển nhượng, trao đổi, tặng, cho."
+    ],
+    "correct_answer": "Tiếp tục chịu trách nhiệm của chủ xe.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 94,
+    "question": "Câu 94. Trên đường bộ, trong khu vực đông dân cư, đường đôi hoặc đường một chiều có từ hai làn xe cơ giới trở lên, xe mô tô hai bánh, ô tô chở người đến 28 chỗ không kể chỗ của người lái xe tham gia giao thông với tốc độ khai thác tối đa cho phép là bao nhiêu?",
+    "answers": [
+      "60 km/h.",
+      "50 km/h.",
+      "40 km/h."
+    ],
+    "correct_answer": "60 km/h.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 95,
+    "question": "Câu 95. Trên đường bộ (trừ đường cao tốc) trong khu vực đông dân cư, đường hai chiều hoặc đường một chiều có một làn xe cơ giới, xe mô tô hai bánh, ô tô chở người đến 28 chỗ không kể chỗ của người lái xe tham gia giao thông với tốc độ khai thác tối đa cho phép là bao nhiêu?",
+    "answers": [
+      "60 km/h.",
+      "50 km/h.",
+      "40 km/h."
+    ],
+    "correct_answer": "50 km/h.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 96,
+    "question": "Câu 96. Trên đường bộ ngoài khu vực đông dân cư, đường đôi hoặc đường một chiều có từ hai làn xe cơ giới trở lên (trừ đường cao tốc) loại xe nào dưới đây được tham gia giao thông với tốc độ khai thác tối đa cho phép là 70 km/h?",
+    "answers": [
+      "Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.",
+      "Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).",
+      "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tôchuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).",
+      "Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc."
+    ],
+    "correct_answer": "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tôchuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 97,
+    "question": "Câu 97. Trên đường bộ ngoài khu vực đông dân cư, đường hai chiều hoặc đường một chiều có một làn xe cơ giới (trừ đường cao tốc), loại xe nào dưới đây được tham gia giao thông với tốc độ khai thác tối đa cho phép là 60 km/h?",
+    "answers": [
+      "Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.",
+      "Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).",
+      "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tôchuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).",
+      "Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc."
+    ],
+    "correct_answer": "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tôchuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 98,
+    "question": "Câu 98. Người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép đến mức cần thiết, chú ý quan sát và chuẩn bị sẵn sàng những tình huống có thể xảy ra để phòng ngừa tai nạn trong các trường hợp nào dưới đây?",
+    "answers": [
+      "Gặp biển báo nguy hiểm và cảnh báo trên đường.",
+      "Gặp biển chỉ dẫn trên đường.",
+      "Gặp biển báo hết mọi lệnh cấm.",
+      "Gặp biển báo hết hạn chế tốc độ tối đa cho phép."
+    ],
+    "correct_answer": "Gặp biển báo nguy hiểm và cảnh báo trên đường.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 99,
+    "question": "Câu 99. Khi gặp xe buýt đang dừng đón, trả khách, người điều khiển xe mô tô phải xử lý như thế nào dưới đây?",
+    "answers": [
+      "Tăng tốc độ để nhanh chóng vượt qua xe buýt.",
+      "Quan sát, giảm tốc độ đi qua xe buýt hoặc dừng lại để bảo đảm an toàn."
+    ],
+    "correct_answer": "Quan sát, giảm tốc độ đi qua xe buýt hoặc dừng lại để bảo đảm an toàn.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 100,
+    "question": "Câu 100. Việc sử dụng xe mô tô, xe gắn máy, xe thô sơ để vận chuyển hành khách, hàng hóa phải thực hiện các quy định nào dưới đây để đảm bảo an toàn giao thông?",
+    "answers": [
+      "Kiểm tra điều kiện bảo đảm an toàn của xe trước khi tham gia giao thông đường bộ; mang đủ giấy tờ theo quy định của pháp luật.",
+      "Kiểm tra việc sắp xếp hàng hóa bảo đảm an toàn; không chở quá số người, chở hành lý, hàng hoá vượt quá khối lượng cho phép hoặc vượt quá khổ giới hạn của xe.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG I. QUY ĐỊNH CHUNG VÀ QUY TẮC GIAO THÔNG ĐƯỜNG BỘ"
+  },
+  {
+    "id": 101,
+    "question": "Câu 101. Những hành vi nào sau đây thể hiện là người có văn hóa giao thông?",
+    "answers": [
+      "Luôn tuân thủ pháp luật về trật tự, an toàn giao thông đường bộ, nhường nhịn và giúp đỡ ngườikhác.",
+      "Đi nhanh, vượt đèn đỏ nếu không có lực lượng Công an.",
+      "Bấm còi và nháy đèn liên tục để cảnh báo xe khác.",
+      "Tránh nhường đường để đi nhanh hơn."
+    ],
+    "correct_answer": "Luôn tuân thủ pháp luật về trật tự, an toàn giao thông đường bộ, nhường nhịn và giúp đỡ ngườikhác.",
+    "image": null,
+    "chapter": "CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+  },
+  {
+    "id": 102,
+    "question": "Câu 102. Khái niệm về văn hóa giao thông được hiểu như thế nào là đúng?",
+    "answers": [
+      "Là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông, là ý thức trách nhiệm với cộng đồng khi tham gia giao thông.",
+      "Là sự tôn trọng, nhường nhịn, giúp đỡ và ứng xử có văn hóa giữa những người tham gia giao thông với nhau.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+  },
+  {
+    "id": 103,
+    "question": "Câu 103. Người lái xe không điều khiển xe đi đúng làn đường quy định, phóng nhanh, vượt ẩu, vượt đèn đỏ, đi vào đường cấm được coi là hành vi",
+    "answers": [],
+    "correct_answer": null,
+    "image": null,
+    "chapter": "CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+  },
+  {
+    "id": 104,
+    "question": "Câu 104. Người lái xe có văn hóa giao thông khi tham gia giao thông đường bộ phải đáp ứng các điều kiện nào dưới đây?",
+    "answers": [
+      "​Hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông đường bộ; có ý thức trách nhiệm vớicộng đồng khi tham gia giao thông; tôn trọng, nhường nhịn, giúp đỡ và ứng xử có văn hóa với nhữngngười cùng tham gia giao thông."
+    ],
+    "correct_answer": "​Hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông đường bộ; có ý thức trách nhiệm vớicộng đồng khi tham gia giao thông; tôn trọng, nhường nhịn, giúp đỡ và ứng xử có văn hóa với nhữngngười cùng tham gia giao thông.",
+    "image": null,
+    "chapter": "CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+  },
+  {
+    "id": 105,
+    "question": "Câu 105. Người lái xe mô tô có văn hóa giao thông khi tham gia giao thông phải tuân thủ những quy định nào dưới đây?",
+    "answers": [
+      "Điều khiển xe đi bên phải theo chiều đi của mình; đi đúng phần đường, lànđường quy định; độimũ bảo hiểm đúng quy chuẩn kỹ thuật quốc gia, cài quai đúng quy cách.",
+      "Điều khiển xe đi trên phần đường, làn đường có ít phương tiện tham gia giao thông.",
+      "Điều khiển xe và đội mũ bảo hiểm ở nơi có biển báo bắt buộc đội mũ bảo hiểm."
+    ],
+    "correct_answer": "Điều khiển xe đi bên phải theo chiều đi của mình; đi đúng phần đường, lànđường quy định; độimũ bảo hiểm đúng quy chuẩn kỹ thuật quốc gia, cài quai đúng quy cách.",
+    "image": null,
+    "chapter": "CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+  },
+  {
+    "id": 106,
+    "question": "Câu 106. Trong các hành vi dưới đây, người lái xe có văn hóa giao thông phải ứng xử như thế nào?",
+    "answers": [
+      "Điều khiển xe đi bên phải theo chiều đi của mình; đi đúng phần đường, làn đường quy định;dừng, đỗ xe đúng nơi quy định; đã uống rượu, bia thì không lái xe.",
+      "Điều khiển xe đi trên phần đường, làn đường có ít phương tiện giao thông; dừng xe, đỗ xe ở nơi thuận tiện hoặc theo yêu cầu của hành khách, của người thân.",
+      "Dừng và đỗ xe ở nơi thuận tiện cho việc chuyên chở hành khách và giao nhận hàng hóa; sử dụng ít rượu, bia thì có thể lái xe."
+    ],
+    "correct_answer": "Điều khiển xe đi bên phải theo chiều đi của mình; đi đúng phần đường, làn đường quy định;dừng, đỗ xe đúng nơi quy định; đã uống rượu, bia thì không lái xe.",
+    "image": null,
+    "chapter": "CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+  },
+  {
+    "id": 107,
+    "question": "Câu 107. Khi tham gia giao thông việc sử dụng còi xe nên dùng như thế nào để thể hiện là người có văn hóa giao thông?",
+    "answers": [
+      "Chỉ bấm còi khi thật sự cần thiết, không bấm còi liên tục hoặc kéo dài, sử dụng còi với mứcâm lượng theo quy định.",
+      "Bấm còi liên tục để các xe khác nhường đường.",
+      "Bấm còi to khi đi qua khu vực đông dân cư.",
+      "Không cần dùng còi, tránh gây tiếng ồn là văn minh."
+    ],
+    "correct_answer": "Chỉ bấm còi khi thật sự cần thiết, không bấm còi liên tục hoặc kéo dài, sử dụng còi với mứcâm lượng theo quy định.",
+    "image": null,
+    "chapter": "CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+  },
+  {
+    "id": 108,
+    "question": "Câu 108. Người điều khiển phương tiện tham giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan đến vụ tai nạn giao thông đường bộ có trách nhiệm gì dưới đây?",
+    "answers": [
+      "Dừng ngay phương tiện, cảnh báo nguy hiểm, giữ nguyên hiện trường, trợ giúp người bị nạn và báo tin cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh.",
+      "Ở lại hiện trường vụ tai nạn giao thông đường bộ cho đến khi người của cơ quan Công an đến, trừ trường hợp phải đi cấp cứu, đưa người bị nạn đi cấp cứu hoặc xét thấy bị đe dọa đến tính mạng, sức khỏe nhưng phải đến trình báo ngay cơ quan Công an, Ủy ban nhân dân nơi gần nhất.",
+      "Cung cấp thông tin xác định danh tính về bản thân, người liên quan đến vụ tai nạn giao thông đường bộ và thông tin liên quan của vụ tai nạn giao thông đường bộ cho cơ quan có thẩm quyền.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Cả ba ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+  },
+  {
+    "id": 109,
+    "question": "Câu 109. Người có mặt tại nơi xảy ra vụ tai giao thông đường bộ có trách nhiệm gì dưới đây?",
+    "answers": [
+      "Giúp đỡ, cứu chữa kịp thời người bị nạn; báo tin ngay cho cơ quan Công an, cơ sở khám bệnh, chữabệnh hoặc Ủy ban nhân dân nơi gần nhất; tham gia bảo vệhiện trường; tham gia bảo vệ tài sản củangười bị nạn; cung cấp thông tin liên quan về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền.",
+      "Chụp lại hình ảnh vụ tai nạn (nếu có thiết bị ghi hình) và nhanh chóng rời khỏi hiện trường vụ tai nạn."
+    ],
+    "correct_answer": "Giúp đỡ, cứu chữa kịp thời người bị nạn; báo tin ngay cho cơ quan Công an, cơ sở khám bệnh, chữabệnh hoặc Ủy ban nhân dân nơi gần nhất; tham gia bảo vệhiện trường; tham gia bảo vệ tài sản củangười bị nạn; cung cấp thông tin liên quan về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền.",
+    "image": null,
+    "chapter": "CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+  },
+  {
+    "id": 110,
+    "question": "Câu 110. Trong đoạn đường hai chiều tại khu đông dân cư đang ùn tắc, người điều khiển xe mô tô có văn hóa giao thông sẽ lựa chọn cách xử lý tình huống nào dưới đây?",
+    "answers": [
+      "Cho xe lấn sang làn ngược chiều để nhanh chóng thoát khỏi nơi ùn tắc.",
+      "Điều khiển xe trên vỉa hè để nhanh chóng thoát khỏi nơi ùn tắc.",
+      "Kiên nhẫn tuân thủ hướng dẫn của người điều khiển giao thông hoặc tín hiệuđèn giao thông, dichuyển trên đúng phần đường bên phải theo chiều đi, nhườngđường cho các phương tiện đi ngượcchiều."
+    ],
+    "correct_answer": "Kiên nhẫn tuân thủ hướng dẫn của người điều khiển giao thông hoặc tín hiệuđèn giao thông, dichuyển trên đúng phần đường bên phải theo chiều đi, nhườngđường cho các phương tiện đi ngượcchiều.",
+    "image": null,
+    "chapter": "CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+  },
+  {
+    "id": 111,
+    "question": "Câu 111. Khi điều khiển xe mô tô tay ga xuống đường dốc dài, độ dốc cao, người lái xe cần thực hiện các thao tác nào dưới đây để bảo đảm an toàn?",
+    "answers": [
+      "Giữ tay ga ở mức độ phù hợp, sử dụng phanh trước và phanh sau để giảm tốc độ.",
+      "Nhả hết tay ga, tắt động cơ, sử dụng phanh trước và phanh sau để giảm tốc độ.",
+      "Sử dụng phanh trước để giảm tốc độ kết hợp với tắt chìa khóa điện của xe."
+    ],
+    "correct_answer": "Giữ tay ga ở mức độ phù hợp, sử dụng phanh trước và phanh sau để giảm tốc độ.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 112,
+    "question": "Câu 112. Khi điều khiển xe trên đường vòng người lái xe cần phải làm gì để bảo đảm an toàn?",
+    "answers": [
+      "Quan sát cẩn thận các chướng ngại vật và báo hiệu bằng coi, đèn; giảm tốc độ tới mức cần thiết, vềsố thấp và thực hiện quay vòng với tốc độ phù hợp với bán kính cong của đường vòng.",
+      "Quan sát cẩn thận các chướng ngại vật và báo hiệu bằng còi, đèn; tăng tốc để nhanh chóng qua đường vòng và giảm tốc độ sau khi qua đường vòng."
+    ],
+    "correct_answer": "Quan sát cẩn thận các chướng ngại vật và báo hiệu bằng coi, đèn; giảm tốc độ tới mức cần thiết, vềsố thấp và thực hiện quay vòng với tốc độ phù hợp với bán kính cong của đường vòng.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 113,
+    "question": "Câu 113. Khi điều khiển xe qua đường sắt, người lái xe cần phải thực hiện các thao tác nào dưới đây để bảo đảm an toàn?",
+    "answers": [
+      "Khi có chuông báo hoặc thanh chắn đã hạ xuống, người lái xe phải dừng xe tạm thời đúng khoảng cách an toàn, kéo phanh tay nếu đường dốc hoặc phải chờ lâu.",
+      "Khi không có chuông báo hoặc thanh chắn không hạ xuống, người lái xe cần phải quan sát nếu thấy đủ điều kiện an toàn thì về số thấp, tăng ga nhẹ và không thay đổi số trong quá trình vượt qua đường sắt để tránh động cơ chết máy cho xe cho vượt qua.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 114,
+    "question": "Câu 114. Trong các loại nhiên liệu dưới đây, loại nhiên liệu nào giảm thiểu ô nhiễm môi trường?",
+    "answers": [
+      "Xăng và dầu diesel.",
+      "Xăng sinh học và khí sinh học.",
+      "Ý 1 và ý 2."
+    ],
+    "correct_answer": "Xăng sinh học và khí sinh học.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 115,
+    "question": "Câu 115. Các biện pháp tiết kiệm nhiên liệu khi chạy xe?",
+    "answers": [
+      "Bảo dưỡng xe theo định kỳ và có kế hoạch lộ trình trước khi xe chạy.",
+      "Kiểm tra áp suất lốp theo quy định và chạy xe với tốc độ phù hợp với tình trạng mặt đường và mật độ giao thông trên đường.",
+      "Cả hai ý trên."
+    ],
+    "correct_answer": "Cả hai ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 116,
+    "question": "Câu 116. Khi tầm nhìn bị hạn chế bởi sương mù hoặc mưa to, người lái xe phải thực hiện các thao tác nào để bảo đảm an toàn?",
+    "answers": [
+      "Tăng tốc độ, chạy gần xe trước, nhìn đèn hậu để định hướng.",
+      "Giảm tốc độ, chạy cách xa xe trước với khoảng cách an toàn, bật đèn sương mù và đèn chiếu gần.",
+      "Tăng tốc độ, bật đèn pha vượt qua xe chạy trước."
+    ],
+    "correct_answer": "Giảm tốc độ, chạy cách xa xe trước với khoảng cách an toàn, bật đèn sương mù và đèn chiếu gần.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 117,
+    "question": "Câu 117. Khi đèn pha của xe đi ngược chiều gây chói mắt, làm giảm khả năng quan sát trên đường, người lái xe xử lý như thế nào dưới đây để bảo đảm an toàn?",
+    "answers": [
+      "Giảm tốc độ, giữ vững tay lái, nhìn chếch sang lề đường bên phải.",
+      "Bật đèn pha chiếu xa và giữ nguyên tốc độ.",
+      "Tăng tốc độ, bật đèn pha đối diện xe phía trước."
+    ],
+    "correct_answer": "Giảm tốc độ, giữ vững tay lái, nhìn chếch sang lề đường bên phải.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 118,
+    "question": "Câu 118. Để đạt được hiệu quả phanh cao nhất, người lái xe mô tô phải sử dụng các kỹ năng như thế nào dưới đây?",
+    "answers": [
+      "Sử dụng phanh trước.",
+      "Sử dụng phanh sau.",
+      "Giảm hết ga, sử dụng đồng thời cả phanh sau và phanh trước."
+    ],
+    "correct_answer": "Giảm hết ga, sử dụng đồng thời cả phanh sau và phanh trước.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 119,
+    "question": "Câu 119. Khi đang lái xe mô tô hoặc ô tô, nếu có nhu cầu sử dụng điện thoại để nhắn tin hoặc gọi điện, người lái xe phải thực hiện như thế nào trong các tình huống nêu dưới đây?",
+    "answers": [
+      "Giảm tốc độ để bảo đảm an toàn với xe phía trước và sử dụng điện thoại để liên lạc.",
+      "Giảm tốc độ để dừng xe ở nơi cho phép sau đó sử dụng điện thoại để liên lạc.",
+      "Tăng tốc độ để cách xa xe phía sau và sử dụng điện thoại để liên lạc."
+    ],
+    "correct_answer": "Giảm tốc độ để dừng xe ở nơi cho phép sau đó sử dụng điện thoại để liên lạc.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 120,
+    "question": "Câu 120. Những thói quen nào dưới đây khi điều khiển xe mô tô tay ga tham gia giao thông dễ gây tai nạn nguy hiểm?",
+    "answers": [
+      "Sử dụng còi.",
+      "Phanh đồng thời cả phanh trước và phanh sau.",
+      "Chỉ sử dụng phanh trước."
+    ],
+    "correct_answer": "Chỉ sử dụng phanh trước.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 121,
+    "question": "Câu 121. Khi điều khiển xe mô tô quay đầu, người lái xe cần thực hiện như thế nào để bảo đảm an toàn?",
+    "answers": [
+      "Bật tín hiệu báo rẽ trước khi quay đầu, từ từ giảm tốc độ đến mức có thể dừng lại.",
+      "Chỉ quay đầu xe tại những nơi được phép quay đầu.",
+      "Quan sát an toàn các phương tiện tới từ phía trước, phía sau, hai bên đồng thời nhường đường cho xe từ bên phải và phía trước đi tới.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Cả ba ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 122,
+    "question": "Câu 122. Tay ga trên xe mô tô hai bánh có tác dụng gì dưới đây?",
+    "answers": [
+      "Để điều khiển xe chạy về phía trước.",
+      "Để điều tiết công suất động cơ qua đó điều khiển tốc độ của xe.",
+      "Để điều khiển xe chạy lùi.",
+      "Ý 1 và ý 2."
+    ],
+    "correct_answer": "Ý 1 và ý 2.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 123,
+    "question": "Câu 123. Gương chiếu hậu của xe mô tô hai bánh có tác dụng gì dưới đây?",
+    "answers": [
+      "Để quan sát an toàn phía bên trái khi chuẩn bị rẽ trái.",
+      "Để quan sát an toàn phía bên phải khi chuẩn bị rẽ phải.",
+      "Để quan sát an toàn phía sau của bên trái và bên phải trước khi chuyển hướng.",
+      "Để quan sát an toàn phía trước cả bên trái và bên phải trước khi chuyển hướng."
+    ],
+    "correct_answer": "Để quan sát an toàn phía sau của bên trái và bên phải trước khi chuyển hướng.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 124,
+    "question": "Câu 124. Để bảo đảm an toàn khi tham gia giao thông, người lái xe mô tô hai bánh cần điều khiển tay ga như thế nào?",
+    "answers": [
+      "Tăng ga thật mạnh, giảm ga từ từ.",
+      "Tăng ga thật mạnh, giảm ga thật nhanh.",
+      "Tăng ga từ từ, giảm ga thật nhanh.",
+      "Tăng ga từ từ, giảm ga từ từ."
+    ],
+    "correct_answer": "Tăng ga từ từ, giảm ga thật nhanh.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 125,
+    "question": "Câu 125. Để tránh đổ, ngã khi điều khiển xe mô tô hai bánh ở nơi đường xấu, nhỏ và hẹp, người lái xe cần xử lý như thế nào?",
+    "answers": [
+      "Đi ở tốc độ thấp, quan sát liên tục khoảng cách từ 05 m đến 10 m phía trước để điều chỉnh sớm hướng di chuyển.",
+      "Trong quá trình di chuyển không nên dùng phanh trước tránh làm khóa bánh dẫn hướng.",
+      "Không được lắc người sang trái hoặc phải nhiều, trọng tâm cơ thể cần trùng với trọng tâm của xe.",
+      "Cả ba ý trên."
+    ],
+    "correct_answer": "Cả ba ý trên.",
+    "image": null,
+    "chapter": "CHƯƠNG III. KỸ THUẬT LÁI XE"
+  },
+  {
+    "id": 126,
+    "question": "Câu 126. Biển nào cấm máy kéo?",
+    "answers": [
+      "6. Biển nào cấm máy kéo?"
+    ],
+    "correct_answer": "6. Biển nào cấm máy kéo?",
+    "image": "images/image79.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 127,
+    "question": "Câu 127. Biển nào báo hiệu cấm xe mô tô ba bánh chở hàng đi qua?",
+    "answers": [
+      "7. Biển nào báo hiệu cấm xe mô tô ba bánh chở hàng đi qua?"
+    ],
+    "correct_answer": "7. Biển nào báo hiệu cấm xe mô tô ba bánh chở hàng đi qua?",
+    "image": "images/image33.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 128,
+    "question": "Câu 128. Biển nào dưới đây xe gắn máy được phép đi vào?",
+    "answers": [
+      "8. Biển nào dưới đây xe gắn máy được phép đi vào?"
+    ],
+    "correct_answer": "8. Biển nào dưới đây xe gắn máy được phép đi vào?",
+    "image": "images/image112.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 129,
+    "question": "Câu 129. Biển nào báo hiệu cấm xe mô tô đi vào?",
+    "answers": [
+      "9. Biển nào báo hiệu cấm xe mô tô đi vào?"
+    ],
+    "correct_answer": "9. Biển nào báo hiệu cấm xe mô tô đi vào?",
+    "image": "images/image58.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 130,
+    "question": "Câu 130. Khi gặp biển nào thì xe mô tô hai bánh được đi vào?",
+    "answers": [
+      "0. Khi gặp biển nào thì xe mô tô hai bánh được đi vào?"
+    ],
+    "correct_answer": "0. Khi gặp biển nào thì xe mô tô hai bánh được đi vào?",
+    "image": "images/image71.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 131,
+    "question": "Câu 131. Biển nào cấm quay đầu xe?",
+    "answers": [
+      "1. Biển nào cấm quay đầu xe?"
+    ],
+    "correct_answer": "1. Biển nào cấm quay đầu xe?",
+    "image": "images/image11.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 132,
+    "question": "Câu 132. Biển nào cấm xe rẽ trái?",
+    "answers": [
+      "2. Biển nào cấm xe rẽ trái?"
+    ],
+    "correct_answer": "2. Biển nào cấm xe rẽ trái?",
+    "image": "images/image11.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 133,
+    "question": "Câu 133. Khi gặp biển nào xe được rẽ trái?",
+    "answers": [
+      "3. Khi gặp biển nào xe được rẽ trái?"
+    ],
+    "correct_answer": "3. Khi gặp biển nào xe được rẽ trái?",
+    "image": "images/image11.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 134,
+    "question": "Câu 134. Biển nào cấm các phương tiện rẽ phải?",
+    "answers": [
+      "4. Biển nào cấm các phương tiện rẽ phải?"
+    ],
+    "correct_answer": "4. Biển nào cấm các phương tiện rẽ phải?",
+    "image": "images/image105.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 135,
+    "question": "Câu 135. Biển nào cấm các phương tiện rẽ trái?",
+    "answers": [
+      "5. Biển nào cấm các phương tiện rẽ trái?"
+    ],
+    "correct_answer": "5. Biển nào cấm các phương tiện rẽ trái?",
+    "image": "images/image2.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 136,
+    "question": "Câu 136. Biển nào xe được phép rẽ trái?",
+    "answers": [
+      "6. Biển nào xe được phép rẽ trái?"
+    ],
+    "correct_answer": "6. Biển nào xe được phép rẽ trái?",
+    "image": "images/image75.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 137,
+    "question": "Câu 137. Biển nào xe quay đầu không bị cấm?",
+    "answers": [
+      "7. Biển nào xe quay đầu không bị cấm?"
+    ],
+    "correct_answer": "7. Biển nào xe quay đầu không bị cấm?",
+    "image": "images/image75.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 138,
+    "question": "Câu 138. Biển nào xe được phép quay đầu nhưng không được rẽ trái?",
+    "answers": [
+      "8. Biển nào xe được phép quay đầu nhưng không được rẽ trái?"
+    ],
+    "correct_answer": "8. Biển nào xe được phép quay đầu nhưng không được rẽ trái?",
+    "image": "images/image17.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 139,
+    "question": "Câu 139. Biển nào là biển \"Cấm đi ngược chiều\"?",
+    "answers": [
+      "9. Biển nào là biển \"Cấm đi ngược chiều\"?"
+    ],
+    "correct_answer": "9. Biển nào là biển \"Cấm đi ngược chiều\"?",
+    "image": "images/image46.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 140,
+    "question": "Câu 140. Biển nào dưới đây các phương tiện không được phép đi vào?",
+    "answers": [
+      "0. Biển nào dưới đây các phương tiện không được phép đi vào?"
+    ],
+    "correct_answer": "0. Biển nào dưới đây các phương tiện không được phép đi vào?",
+    "image": "images/image46.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 141,
+    "question": "Câu 141. Khi gặp biển nào xe ưu tiên theo luật định vẫn phải dừng lại?",
+    "answers": [
+      "1. Khi gặp biển nào xe ưu tiên theo luật định vẫn phải dừng lại?"
+    ],
+    "correct_answer": "1. Khi gặp biển nào xe ưu tiên theo luật định vẫn phải dừng lại?",
+    "image": "images/image41.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 142,
+    "question": "Câu 142. Biển nào cấm tất cả các loại xe cơ giới và thô sơ đi lại trên đường, trừ xe ưu tiên theo luật định (nếu đường vẫn cho xe chạy được)?",
+    "answers": [
+      "2. Biển nào cấm tất cả các loại xe cơ giới và thô sơ đi lại trên đường, trừ xe ưu tiên theo luật định (nếu đường vẫn cho xe chạy được)?"
+    ],
+    "correct_answer": "2. Biển nào cấm tất cả các loại xe cơ giới và thô sơ đi lại trên đường, trừ xe ưu tiên theo luật định (nếu đường vẫn cho xe chạy được)?",
+    "image": "images/image67.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 143,
+    "question": "Câu 143. Biển báo này có ý nghĩa như thế nào?",
+    "answers": [
+      "3. Biển báo này có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "3. Biển báo này có ý nghĩa như thế nào?",
+    "image": "images/image106.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 144,
+    "question": "Câu144.Biểnnàycóhiệulựcđốivớixemôtôhaibánh,babánhchởhàngkhông?",
+    "answers": [
+      "4.Biểnnàycóhiệulựcđốivớixemôtôhaibánh,babánhchởhàngkhông?"
+    ],
+    "correct_answer": "4.Biểnnàycóhiệulựcđốivớixemôtôhaibánh,babánhchởhàngkhông?",
+    "image": "images/image69.jpg",
+    "chapter": null
+  },
+  {
+    "id": 145,
+    "question": "Câu 145. Biển này có ý nghĩa như thế nào?",
+    "answers": [
+      "5. Biển này có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "5. Biển này có ý nghĩa như thế nào?",
+    "image": "images/image69.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 146,
+    "question": "Câu 146. Biển phụ đặt dưới biển cấm bóp còi có ý nghĩa như thế nào?",
+    "answers": [
+      "6. Biển phụ đặt dưới biển cấm bóp còi có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "6. Biển phụ đặt dưới biển cấm bóp còi có ý nghĩa như thế nào?",
+    "image": "images/image12.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 147,
+    "question": "Câu 147. Chiều dài đoạn đường 500 m từ nơi đặt biển này, người lái xe có được phép bấm còi không?",
+    "answers": [
+      "7. Chiều dài đoạn đường 500 m từ nơi đặt biển này, người lái xe có được phép bấm còi không?"
+    ],
+    "correct_answer": "7. Chiều dài đoạn đường 500 m từ nơi đặt biển này, người lái xe có được phép bấm còi không?",
+    "image": "images/image12.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 148,
+    "question": "Câu 148. Biển nào xe mô tô hai bánh được đi vào?",
+    "answers": [
+      "8. Biển nào xe mô tô hai bánh được đi vào?"
+    ],
+    "correct_answer": "8. Biển nào xe mô tô hai bánh được đi vào?",
+    "image": "images/image56.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 149,
+    "question": "Câu 149. Biển nào xe mô tô hai bánh không được đi vào?",
+    "answers": [
+      "9. Biển nào xe mô tô hai bánh không được đi vào?"
+    ],
+    "correct_answer": "9. Biển nào xe mô tô hai bánh không được đi vào?",
+    "image": "images/image49.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 150,
+    "question": "Câu 150. Ba biển này có hiệu lực như thế nào?",
+    "answers": [
+      "0. Ba biển này có hiệu lực như thế nào?"
+    ],
+    "correct_answer": "0. Ba biển này có hiệu lực như thế nào?",
+    "image": "images/image32.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 151,
+    "question": "Câu 151. Biển này có ý nghĩa như thế nào?",
+    "answers": [
+      "1. Biển này có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "1. Biển này có ý nghĩa như thế nào?",
+    "image": "images/image107.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 152,
+    "question": "Câu 152. Biển nào là biển \"Tốc độ tối đa cho phép về ban đêm\"?",
+    "answers": [
+      "2. Biển nào là biển \"Tốc độ tối đa cho phép về ban đêm\"?"
+    ],
+    "correct_answer": "2. Biển nào là biển \"Tốc độ tối đa cho phép về ban đêm\"?",
+    "image": "images/image116.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 153,
+    "question": "Câu 153. Biển nào báo hiệu hạn chế tốc độ của phương tiện không vượt quá trị số ghi trên biển?",
+    "answers": [
+      "3. Biển nào báo hiệu hạn chế tốc độ của phương tiện không vượt quá trị số ghi trên biển?"
+    ],
+    "correct_answer": "3. Biển nào báo hiệu hạn chế tốc độ của phương tiện không vượt quá trị số ghi trên biển?",
+    "image": "images/image13.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 154,
+    "question": "Câu 154. Số 50 ghi trên biển báo dưới đây có ý nghĩa như thế nào?",
+    "answers": [
+      "4. Số 50 ghi trên biển báo dưới đây có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "4. Số 50 ghi trên biển báo dưới đây có ý nghĩa như thế nào?",
+    "image": "images/image44.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 155,
+    "question": "Câu 155. Biển báo dưới đây có ý nghĩa như thế nào?",
+    "answers": [
+      "5. Biển báo dưới đây có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "5. Biển báo dưới đây có ý nghĩa như thế nào?",
+    "image": "images/image13.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 156,
+    "question": "Câu 156. Gặp biển nào người lái xe phải nhường đường cho người đi bộ?",
+    "answers": [
+      "6. Gặp biển nào người lái xe phải nhường đường cho người đi bộ?"
+    ],
+    "correct_answer": "6. Gặp biển nào người lái xe phải nhường đường cho người đi bộ?",
+    "image": "images/image111.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 157,
+    "question": "Câu 157. Biển nào chỉ đường dành cho người đi bộ, các loại xe không được đi vào khi gặp biển này?",
+    "answers": [
+      "7. Biển nào chỉ đường dành cho người đi bộ, các loại xe không được đi vào khi gặp biển này?"
+    ],
+    "correct_answer": "7. Biển nào chỉ đường dành cho người đi bộ, các loại xe không được đi vào khi gặp biển này?",
+    "image": "images/image111.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 158,
+    "question": "Câu 158. Biển nào báo hiệu \"Đường dành cho xe thô sơ\"?",
+    "answers": [
+      "8. Biển nào báo hiệu \"Đường dành cho xe thô sơ\"?"
+    ],
+    "correct_answer": "8. Biển nào báo hiệu \"Đường dành cho xe thô sơ\"?",
+    "image": "images/image20.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 159,
+    "question": "Câu 159. Biển nào báo hiệu sắp đến chỗ giao nhau nguy hiểm?",
+    "answers": [
+      "9. Biển nào báo hiệu sắp đến chỗ giao nhau nguy hiểm?"
+    ],
+    "correct_answer": "9. Biển nào báo hiệu sắp đến chỗ giao nhau nguy hiểm?",
+    "image": "images/image57.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 160,
+    "question": "Câu 160. Biển nào báo hiệu \"Giao nhau với đường sắt có rào chắn\"?",
+    "answers": [
+      "0. Biển nào báo hiệu \"Giao nhau với đường sắt có rào chắn\"?"
+    ],
+    "correct_answer": "0. Biển nào báo hiệu \"Giao nhau với đường sắt có rào chắn\"?",
+    "image": "images/image57.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 161,
+    "question": "Câu 161. Biển nào báo hiệu \"Giao nhau có tín hiệu đèn\"?",
+    "answers": [
+      "1. Biển nào báo hiệu \"Giao nhau có tín hiệu đèn\"?"
+    ],
+    "correct_answer": "1. Biển nào báo hiệu \"Giao nhau có tín hiệu đèn\"?",
+    "image": "images/image40.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 162,
+    "question": "Câu 162. Biển nào báo hiệu nguy hiểm giao nhau với đường sắt?",
+    "answers": [
+      "2. Biển nào báo hiệu nguy hiểm giao nhau với đường sắt?"
+    ],
+    "correct_answer": "2. Biển nào báo hiệu nguy hiểm giao nhau với đường sắt?",
+    "image": "images/image18.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 163,
+    "question": "Câu 163. Biển nào báo hiệu đường bộ giao nhau với đường sắt không có rào chắn?",
+    "answers": [
+      "3. Biển nào báo hiệu đường bộ giao nhau với đường sắt không có rào chắn?"
+    ],
+    "correct_answer": "3. Biển nào báo hiệu đường bộ giao nhau với đường sắt không có rào chắn?",
+    "image": "images/image95.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 164,
+    "question": "Câu 164. Biển nào báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt?",
+    "answers": [],
+    "correct_answer": null,
+    "image": null,
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 165,
+    "question": "Câu 165. Biển nào báo hiệu \"Cửa chui\"?",
+    "answers": [
+      "5. Biển nào báo hiệu \"Cửa chui\"?"
+    ],
+    "correct_answer": "5. Biển nào báo hiệu \"Cửa chui\"?",
+    "image": "images/image28.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 166,
+    "question": "Câu 166. Hai biển này có ý nghĩa như thế nào?",
+    "answers": [
+      "6. Hai biển này có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "6. Hai biển này có ý nghĩa như thế nào?",
+    "image": "images/image47.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 167,
+    "question": "Câu 167. Biển nào báo hiệu \"Hết đoạn đường ưu tiên\"?",
+    "answers": [
+      "7. Biển nào báo hiệu \"Hết đoạn đường ưu tiên\"?"
+    ],
+    "correct_answer": "7. Biển nào báo hiệu \"Hết đoạn đường ưu tiên\"?",
+    "image": "images/image59.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 168,
+    "question": "Câu 168. Biển nào báo hiệu, chỉ dẫn xe đi trên đường này được quyền ưu tiên qua nơi giao nhau?",
+    "answers": [
+      "Biển 1 và biển 2.",
+      "Biển 1 và biển 3.",
+      "Biển 2 và biển 3.",
+      "Cả ba biển."
+    ],
+    "correct_answer": "Biển 1 và biển 3.",
+    "image": "images/image89.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 169,
+    "question": "Câu 169. Biển nào báo hiệu \"Giao nhau với đường không ưu tiên\"?",
+    "answers": [
+      "9. Biển nào báo hiệu \"Giao nhau với đường không ưu tiên\"?"
+    ],
+    "correct_answer": "9. Biển nào báo hiệu \"Giao nhau với đường không ưu tiên\"?",
+    "image": "images/image89.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 170,
+    "question": "Câu 170. Biển nào báo hiệu \"Giao nhau với đường ưu tiên\"?",
+    "answers": [
+      "0. Biển nào báo hiệu \"Giao nhau với đường ưu tiên\"?"
+    ],
+    "correct_answer": "0. Biển nào báo hiệu \"Giao nhau với đường ưu tiên\"?",
+    "image": "images/image108.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 171,
+    "question": "Câu 171. Biển nào báo hiệu \"Đường giao nhau\" của các tuyến đường cùng cấp?",
+    "answers": [
+      "1. Biển nào báo hiệu \"Đường giao nhau\" của các tuyến đường cùng cấp?"
+    ],
+    "correct_answer": "1. Biển nào báo hiệu \"Đường giao nhau\" của các tuyến đường cùng cấp?",
+    "image": "images/image68.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 172,
+    "question": "Câu 172. Biển nào báo hiệu \"Đường hai chiều\"?",
+    "answers": [
+      "2. Biển nào báo hiệu \"Đường hai chiều\"?"
+    ],
+    "correct_answer": "2. Biển nào báo hiệu \"Đường hai chiều\"?",
+    "image": "images/image16.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 173,
+    "question": "Câu 173. Biển nào báo hiệu phải giảm tốc độ, nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp?",
+    "answers": [
+      "3. Biển nào báo hiệu phải giảm tốc độ, nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp?"
+    ],
+    "correct_answer": "3. Biển nào báo hiệu phải giảm tốc độ, nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp?",
+    "image": "images/image16.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 174,
+    "question": "Câu 174. Biển nào chỉ dẫn \"Được ưu tiên qua đường hẹp\"?",
+    "answers": [
+      "4. Biển nào chỉ dẫn \"Được ưu tiên qua đường hẹp\"?"
+    ],
+    "correct_answer": "4. Biển nào chỉ dẫn \"Được ưu tiên qua đường hẹp\"?",
+    "image": "images/image16.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 175,
+    "question": "Câu 175. Biển nào báo hiệu \"Đường đôi\"?",
+    "answers": [
+      "5. Biển nào báo hiệu \"Đường đôi\"?"
+    ],
+    "correct_answer": "5. Biển nào báo hiệu \"Đường đôi\"?",
+    "image": "images/image52.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 176,
+    "question": "Câu 176. Biển nào báo hiệu \"Kết thúc đường đôi\"?",
+    "answers": [
+      "6. Biển nào báo hiệu \"Kết thúc đường đôi\"?"
+    ],
+    "correct_answer": "6. Biển nào báo hiệu \"Kết thúc đường đôi\"?",
+    "image": "images/image50.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 177,
+    "question": "Câu 177. Biển nào báo hiệu \"Giao nhau với đường hai chiều\"?",
+    "answers": [
+      "7. Biển nào báo hiệu \"Giao nhau với đường hai chiều\"?"
+    ],
+    "correct_answer": "7. Biển nào báo hiệu \"Giao nhau với đường hai chiều\"?",
+    "image": "images/image34.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 178,
+    "question": "Câu 178. Biển nào báo hiệu \"Giao nhau với đường hai chiều\"?",
+    "answers": [
+      "8. Biển nào báo hiệu \"Giao nhau với đường hai chiều\"?"
+    ],
+    "correct_answer": "8. Biển nào báo hiệu \"Giao nhau với đường hai chiều\"?",
+    "image": "images/image85.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 179,
+    "question": "Câu 179. Biển nào báo hiệu \"Chú ý chướng ngại vật\"?",
+    "answers": [
+      "9. Biển nào báo hiệu \"Chú ý chướng ngại vật\"?"
+    ],
+    "correct_answer": "9. Biển nào báo hiệu \"Chú ý chướng ngại vật\"?",
+    "image": "images/image100.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 180,
+    "question": "Câu 180. Biển nào báo hiệu \"Đường hầm\"?",
+    "answers": [
+      "0. Biển nào báo hiệu \"Đường hầm\"?"
+    ],
+    "correct_answer": "0. Biển nào báo hiệu \"Đường hầm\"?",
+    "image": "images/image38.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 181,
+    "question": "Câu 181. Biển nào dưới đây là biển \"Cầu hẹp\"?",
+    "answers": [
+      "1. Biển nào dưới đây là biển \"Cầu hẹp\"?"
+    ],
+    "correct_answer": "1. Biển nào dưới đây là biển \"Cầu hẹp\"?",
+    "image": "images/image5.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 182,
+    "question": "Câu 182. Gặp biển nào người tham gia giao thông phải đi chậm và thận trọng đề phòng khả năng xuất hiện và di chuyển bất ngờ của trẻ em trên mặt đường?",
+    "answers": [
+      "2. Gặp biển nào người tham gia giao thông phải đi chậm và thận trọng đề phòng khả năng xuất hiện và di chuyển bất ngờ của trẻ em trên mặt đường?"
+    ],
+    "correct_answer": "2. Gặp biển nào người tham gia giao thông phải đi chậm và thận trọng đề phòng khả năng xuất hiện và di chuyển bất ngờ của trẻ em trên mặt đường?",
+    "image": "images/image74.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 183,
+    "question": "Câu 183. Biển nào chỉ dẫn nơi bắt đầu đoạn đường dành cho người đi bộ?",
+    "answers": [
+      "3. Biển nào chỉ dẫn nơi bắt đầu đoạn đường dành cho người đi bộ?"
+    ],
+    "correct_answer": "3. Biển nào chỉ dẫn nơi bắt đầu đoạn đường dành cho người đi bộ?",
+    "image": "images/image24.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 184,
+    "question": "Câu 184. Biển nào dưới đây báo hiệu gần đến đoạn đường thường có trẻ em đi ngang qua?",
+    "answers": [
+      "4. Biển nào dưới đây báo hiệu gần đến đoạn đường thường có trẻ em đi ngang qua?"
+    ],
+    "correct_answer": "4. Biển nào dưới đây báo hiệu gần đến đoạn đường thường có trẻ em đi ngang qua?",
+    "image": "images/image70.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 185,
+    "question": "Câu 185. Biển nào sau đây là biển \"Dốc xuống nguy hiểm\"?",
+    "answers": [
+      "5. Biển nào sau đây là biển \"Dốc xuống nguy hiểm\"?"
+    ],
+    "correct_answer": "5. Biển nào sau đây là biển \"Dốc xuống nguy hiểm\"?",
+    "image": "images/image110.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 186,
+    "question": "Câu 186. Biển báo này có ý nghĩa như thế nào?",
+    "answers": [
+      "6. Biển báo này có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "6. Biển báo này có ý nghĩa như thế nào?",
+    "image": "images/image109.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 187,
+    "question": "Câu 187. Các biển báo này có ý nghĩa như thế nào?",
+    "answers": [
+      "7. Các biển báo này có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "7. Các biển báo này có ý nghĩa như thế nào?",
+    "image": "images/image19.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 188,
+    "question": "Câu 188. Biển nào báo hiệu các phương tiện phải tuân thủ tốc độ tối đa cho phép trên từng làn đường?",
+    "answers": [
+      "8. Biển nào báo hiệu các phương tiện phải tuân thủ tốc độ tối đa cho phép trên từng làn đường?"
+    ],
+    "correct_answer": "8. Biển nào báo hiệu các phương tiện phải tuân thủ tốc độ tối đa cho phép trên từng làn đường?",
+    "image": "images/image90.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 189,
+    "question": "Câu 189. Khi gặp biển nào thì các phương tiện không được đi vào, trừ xe ô tô và xe mô tô?",
+    "answers": [
+      "9. Khi gặp biển nào thì các phương tiện không được đi vào, trừ xe ô tô và xe mô tô?"
+    ],
+    "correct_answer": "9. Khi gặp biển nào thì các phương tiện không được đi vào, trừ xe ô tô và xe mô tô?",
+    "image": "images/image3.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 190,
+    "question": "Câu 190. Biển này có ý nghĩa như thế nào?",
+    "answers": [
+      "0. Biển này có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "0. Biển này có ý nghĩa như thế nào?",
+    "image": "images/image83.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 191,
+    "question": "Câu 191. Biển nào (đặt trước ngã ba, ngã tư) cho phép xe được rẽ sang hướng khác?",
+    "answers": [
+      "1. Biển nào (đặt trước ngã ba, ngã tư) cho phép xe được rẽ sang hướng khác?"
+    ],
+    "correct_answer": "1. Biển nào (đặt trước ngã ba, ngã tư) cho phép xe được rẽ sang hướng khác?",
+    "image": "images/image21.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 192,
+    "question": "Câu 192. Biển nào báo hiệu \"Hướng đi thẳng phải theo\"?",
+    "answers": [
+      "2. Biển nào báo hiệu \"Hướng đi thẳng phải theo\"?"
+    ],
+    "correct_answer": "2. Biển nào báo hiệu \"Hướng đi thẳng phải theo\"?",
+    "image": "images/image1.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 193,
+    "question": "Câu 193. Biển nào báo hiệu \"Đường một chiều\"?",
+    "answers": [
+      "3. Biển nào báo hiệu \"Đường một chiều\"?"
+    ],
+    "correct_answer": "3. Biển nào báo hiệu \"Đường một chiều\"?",
+    "image": "images/image1.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 194,
+    "question": "Câu 194. Trong các biển dưới đây biển nào là biển \"Hết tốc độ tối đa cho phép\"?",
+    "answers": [
+      "Biển 1.",
+      "Biển 2.",
+      "Biển 3.",
+      "Cả ba biển."
+    ],
+    "correct_answer": "Biển 1.",
+    "image": "images/image31.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 195,
+    "question": "Câu 195. Trong các biển dưới đây biển nào là biển \"Hết tốc độ tối thiểu\"?",
+    "answers": [
+      "5. Trong các biển dưới đây biển nào là biển \"Hết tốc độ tối thiểu\"?"
+    ],
+    "correct_answer": "5. Trong các biển dưới đây biển nào là biển \"Hết tốc độ tối thiểu\"?",
+    "image": "images/image31.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 196,
+    "question": "Câu 196. Biển nào dưới đây báo hiệu hết cấm vượt?",
+    "answers": [
+      "6. Biển nào dưới đây báo hiệu hết cấm vượt?"
+    ],
+    "correct_answer": "6. Biển nào dưới đây báo hiệu hết cấm vượt?",
+    "image": "images/image104.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 197,
+    "question": "Câu 197. Trong các biển dưới đây biển nào là biển \"Hết mọi lệnh cấm\"?",
+    "answers": [
+      "7. Trong các biển dưới đây biển nào là biển \"Hết mọi lệnh cấm\"?"
+    ],
+    "correct_answer": "7. Trong các biển dưới đây biển nào là biển \"Hết mọi lệnh cấm\"?",
+    "image": "images/image115.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 198,
+    "question": "Câu 198. Biển nào cho phép được quay đầu xe đi theo hướng ngược lại khi đặt biển trước ngã ba, ngã tư?",
+    "answers": [
+      "8. Biển nào cho phép được quay đầu xe đi theo hướng ngược lại khi đặt biển trước ngã ba, ngã tư?"
+    ],
+    "correct_answer": "8. Biển nào cho phép được quay đầu xe đi theo hướng ngược lại khi đặt biển trước ngã ba, ngã tư?",
+    "image": "images/image87.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 199,
+    "question": "Câu 199. Biển nào không cho phép rẽ phải?",
+    "answers": [
+      "9. Biển nào không cho phép rẽ phải?"
+    ],
+    "correct_answer": "9. Biển nào không cho phép rẽ phải?",
+    "image": "images/image61.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 200,
+    "question": "Câu 200. Khi đến chỗ giao nhau, gặp biển nào thì người lái xe không được cho xe đi thẳng, phải rẽ sang hướng khác?",
+    "answers": [
+      "0. Khi đến chỗ giao nhau, gặp biển nào thì người lái xe không được cho xe đi thẳng, phải rẽ sang hướng khác?"
+    ],
+    "correct_answer": "0. Khi đến chỗ giao nhau, gặp biển nào thì người lái xe không được cho xe đi thẳng, phải rẽ sang hướng khác?",
+    "image": "images/image88.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 201,
+    "question": "Câu 201. Biển số 1 có ý nghĩa như thế nào?",
+    "answers": [
+      "1. Biển số 1 có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "1. Biển số 1 có ý nghĩa như thế nào?",
+    "image": "images/image51.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 202,
+    "question": "Câu 202. Biển nào chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường?",
+    "answers": [
+      "2. Biển nào chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường?"
+    ],
+    "correct_answer": "2. Biển nào chỉ dẫn cho người đi bộ sử dụng cầu vượt qua đường?",
+    "image": "images/image55.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 203,
+    "question": "Câu 203. Biển nào chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường?",
+    "answers": [
+      "3. Biển nào chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường?"
+    ],
+    "correct_answer": "3. Biển nào chỉ dẫn cho người đi bộ sử dụng hầm chui qua đường?",
+    "image": "images/image72.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 204,
+    "question": "Câu 204. Biển nào báo hiệu \"Nơi đỗ xe dành cho người khuyết tật\"?",
+    "answers": [
+      "4. Biển nào báo hiệu \"Nơi đỗ xe dành cho người khuyết tật\"?"
+    ],
+    "correct_answer": "4. Biển nào báo hiệu \"Nơi đỗ xe dành cho người khuyết tật\"?",
+    "image": "images/image99.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 205,
+    "question": "Câu 205. Gặp biển báo này, người tham gia giao thông phải xử lý như thế nào?",
+    "answers": [
+      "Dừng xe tại khu vực có trạm Cảnh sát giao thông."
+    ],
+    "correct_answer": "Dừng xe tại khu vực có trạm Cảnh sát giao thông.",
+    "image": null,
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 206,
+    "question": "Câu 206. Gặp biển báo dưới đây, người lái xe có bắt buộc phải chạy vòng theo đảo an toàn theo hướng mũi tên khi muốn chuyển hướng hay không?",
+    "answers": [
+      "6. Gặp biển báo dưới đây, người lái xe có bắt buộc phải chạy vòng theo đảo an toàn theo hướng mũi tên khi muốn chuyển hướng hay không?"
+    ],
+    "correct_answer": "6. Gặp biển báo dưới đây, người lái xe có bắt buộc phải chạy vòng theo đảo an toàn theo hướng mũi tên khi muốn chuyển hướng hay không?",
+    "image": "images/image98.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 207,
+    "question": "Câu 207. Biển nào báo hiệu \"Cầu vượt liên thông\"?",
+    "answers": [
+      "7. Biển nào báo hiệu \"Cầu vượt liên thông\"?"
+    ],
+    "correct_answer": "7. Biển nào báo hiệu \"Cầu vượt liên thông\"?",
+    "image": "images/image80.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 208,
+    "question": "Câu 208. Biển số 1 có ý nghĩa như thế nào?",
+    "answers": [
+      "8. Biển số 1 có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "8. Biển số 1 có ý nghĩa như thế nào?",
+    "image": "images/image60.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 209,
+    "question": "Câu 209. Biển nào báo hiệu \"Tuyến đường cầu vượt cắt qua\"?",
+    "answers": [
+      "9. Biển nào báo hiệu \"Tuyến đường cầu vượt cắt qua\"?"
+    ],
+    "correct_answer": "9. Biển nào báo hiệu \"Tuyến đường cầu vượt cắt qua\"?",
+    "image": "images/image65.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 210,
+    "question": "Câu 210. Biển báo dưới đây có ý nghĩa như thế nào?",
+    "answers": [
+      "0. Biển báo dưới đây có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "0. Biển báo dưới đây có ý nghĩa như thế nào?",
+    "image": "images/image35.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 211,
+    "question": "Câu 211. Tại đoạn đường có biển \"Làn đường dành riêng cho từng loại xe\" dưới đây, các phương tiện có được phép chuyển sang làn khác để đi theo hành trình mong muốn khi đến gần nơi đường bộ giao nhau hay không?",
+    "answers": [
+      "1. Tại đoạn đường có biển \"Làn đường dành riêng cho từng loại xe\" dưới đây, các phương tiện có được phép chuyển sang làn khác để đi theo hành trình mong muốn khi đến gần nơi đường bộ giao nhau hay không?"
+    ],
+    "correct_answer": "1. Tại đoạn đường có biển \"Làn đường dành riêng cho từng loại xe\" dưới đây, các phương tiện có được phép chuyển sang làn khác để đi theo hành trình mong muốn khi đến gần nơi đường bộ giao nhau hay không?",
+    "image": "images/image103.jpg",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 212,
+    "question": "Câu 212. Biển nào chỉ dẫn người lái xe đi được cả hai hướng?",
+    "answers": [
+      "2. Biển nào chỉ dẫn người lái xe đi được cả hai hướng?"
+    ],
+    "correct_answer": "2. Biển nào chỉ dẫn người lái xe đi được cả hai hướng?",
+    "image": "images/image64.png",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 213,
+    "question": "Câu 213. Biển này có ý nghĩa như thế nào?",
+    "answers": [
+      "3. Biển này có ý nghĩa như thế nào?"
+    ],
+    "correct_answer": "3. Biển này có ý nghĩa như thế nào?",
+    "image": "images/image77.png",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 214,
+    "question": "Câu 214. Vạch mũi tên chỉ hướng trên mặt đường nào dưới đây cho phép xe chỉ được đi thẳng và rẽ phải?",
+    "answers": [
+      "4. Vạch mũi tên chỉ hướng trên mặt đường nào dưới đây cho phép xe chỉ được đi thẳng và rẽ phải?"
+    ],
+    "correct_answer": "4. Vạch mũi tên chỉ hướng trên mặt đường nào dưới đây cho phép xe chỉ được đi thẳng và rẽ phải?",
+    "image": "images/image93.png",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 215,
+    "question": "Câu 215. Vạch kẻ đường nào dưới đây là vạch phân chia hai chiều xe chạy (vạch tim đường), xe không được lấn làn, không được đè lên vạch?",
+    "answers": [
+      "5. Vạch kẻ đường nào dưới đây là vạch phân chia hai chiều xe chạy (vạch tim đường), xe không được lấn làn, không được đè lên vạch?"
+    ],
+    "correct_answer": "5. Vạch kẻ đường nào dưới đây là vạch phân chia hai chiều xe chạy (vạch tim đường), xe không được lấn làn, không được đè lên vạch?",
+    "image": "images/image81.png",
+    "chapter": "CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+  },
+  {
+    "id": 216,
+    "question": "Câu 216. Theo hướng mũi tên, xe nào chấp hành đúng quy tắc giao thông?",
+    "answers": [],
+    "correct_answer": null,
+    "image": null,
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 217,
+    "question": "Câu 217. Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Xe tải, xe khách, xe con, xe mô tô.",
+      "Xe tải, xe mô tô, xe khách, xe con.",
+      "Xe khách, xe tải, xe con, xe mô tô.",
+      "Xe mô tô, xe khách, xe tải, xe con."
+    ],
+    "correct_answer": "Xe tải, xe mô tô, xe khách, xe con.",
+    "image": "images/image14.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 218,
+    "question": "Câu 218. Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Xe tải, xe con, xe mô tô.",
+      "Xe con, xe tải, xe mô tô.",
+      "Xe mô tô, xe con, xe tải.",
+      "Xe con, xe mô tô, xe tải."
+    ],
+    "correct_answer": "Xe mô tô, xe con, xe tải.",
+    "image": "images/image36.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 219,
+    "question": "Câu 219. Trường hợp này xe nào được quyền đi trước?",
+    "answers": [
+      "9. Trường hợp này xe nào được quyền đi trước?"
+    ],
+    "correct_answer": "9. Trường hợp này xe nào được quyền đi trước?",
+    "image": "images/image10.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 220,
+    "question": "Câu 220. Xe nào được quyền đi trước trong trường hợp này?",
+    "answers": [
+      "0. Xe nào được quyền đi trước trong trường hợp này?"
+    ],
+    "correct_answer": "0. Xe nào được quyền đi trước trong trường hợp này?",
+    "image": "images/image114.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 221,
+    "question": "Câu 221. Theo tín hiệu đèn, xe nào được phép đi?",
+    "answers": [
+      "1. Theo tín hiệu đèn, xe nào được phép đi?"
+    ],
+    "correct_answer": "1. Theo tín hiệu đèn, xe nào được phép đi?",
+    "image": "images/image29.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 222,
+    "question": "Câu 222. Theo tín hiệu đèn, xe nào đi là đúng quy tắc giao thông?",
+    "answers": [
+      "2. Theo tín hiệu đèn, xe nào đi là đúng quy tắc giao thông?"
+    ],
+    "correct_answer": "2. Theo tín hiệu đèn, xe nào đi là đúng quy tắc giao thông?",
+    "image": "images/image73.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 223,
+    "question": "Câu 223. Các xe đi theohướngmũi tên, những xe nào vi phạmquytắcgiao thông?",
+    "answers": [
+      "3. Các xe đi theohướngmũi tên, những xe nào vi phạmquytắcgiao thông?"
+    ],
+    "correct_answer": "3. Các xe đi theohướngmũi tên, những xe nào vi phạmquytắcgiao thông?",
+    "image": "images/image66.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 224,
+    "question": "Câu 224. Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Xe khách, xe tải, xe mô tô, xe con.",
+      "Xe con, xe khách, xe tải, xe mô tô.",
+      "Xe mô tô, xe tải, xe khách, xe con.",
+      "Xe mô tô, xe tải, xe con, xe khách."
+    ],
+    "correct_answer": "Xe mô tô, xe tải, xe khách, xe con.",
+    "image": "images/image27.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 225,
+    "question": "Câu 225. Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông?",
+    "answers": [
+      "5. Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông?"
+    ],
+    "correct_answer": "5. Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông?",
+    "image": "images/image26.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 226,
+    "question": "Câu 226: Theo hướng mũi tên, những hướng nào xe gắn máy được phép đi?",
+    "answers": [
+      "1",
+      "2"
+    ],
+    "correct_answer": "1",
+    "image": "images/image6.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 227,
+    "question": "Câu 227. Xe nào đỗ vi phạm quy tắc giao thông?",
+    "answers": [
+      "7. Xe nào đỗ vi phạm quy tắc giao thông?"
+    ],
+    "correct_answer": "7. Xe nào đỗ vi phạm quy tắc giao thông?",
+    "image": "images/image45.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 228,
+    "question": "Câu 228. Xe nào đỗ vi phạm quy tắc giao thông?",
+    "answers": [
+      "8. Xe nào đỗ vi phạm quy tắc giao thông?"
+    ],
+    "correct_answer": "8. Xe nào đỗ vi phạm quy tắc giao thông?",
+    "image": "images/image9.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 229,
+    "question": "Câu 229. Xe nào được quyền đi trước trong trường hợp này?",
+    "answers": [
+      "9. Xe nào được quyền đi trước trong trường hợp này?"
+    ],
+    "correct_answer": "9. Xe nào được quyền đi trước trong trường hợp này?",
+    "image": "images/image94.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 230,
+    "question": "Câu 230. Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Xe con (A), xe mô tô, xe con (B), xe đạp.",
+      "Xe con (B), xe đạp, xe mô tô, xe con (A).",
+      "Xe con (A), xe con (B), xe mô tô + xe đạp.",
+      "Xe mô tô + xe đạp, xe con (A), xe con (B)."
+    ],
+    "correct_answer": "Xe mô tô + xe đạp, xe con (A), xe con (B).",
+    "image": "images/image76.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 231,
+    "question": "Câu 231. Xe nào được quyền đi trước trong trường hợp này?",
+    "answers": [
+      "1. Xe nào được quyền đi trước trong trường hợp này?"
+    ],
+    "correct_answer": "1. Xe nào được quyền đi trước trong trường hợp này?",
+    "image": "images/image82.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 232,
+    "question": "Câu 232. Xe nào vi phạm quy tắc giao thông?",
+    "answers": [
+      "2. Xe nào vi phạm quy tắc giao thông?"
+    ],
+    "correct_answer": "2. Xe nào vi phạm quy tắc giao thông?",
+    "image": "images/image62.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 233,
+    "question": "Câu 233. Các xe đi như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "3. Các xe đi như thế nào là đúng quy tắc giao thông?"
+    ],
+    "correct_answer": "3. Các xe đi như thế nào là đúng quy tắc giao thông?",
+    "image": "images/image118.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 234,
+    "question": "Câu 234. Theo hướng mũi tên, xe nào được phép đi?",
+    "answers": [
+      "4. Theo hướng mũi tên, xe nào được phép đi?"
+    ],
+    "correct_answer": "4. Theo hướng mũi tên, xe nào được phép đi?",
+    "image": "images/image23.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 235,
+    "question": "Câu 235. Trong hình dưới đây, xe nào chấp hành đúng quy tắc giao thông?",
+    "answers": [
+      "5. Trong hình dưới đây, xe nào chấp hành đúng quy tắc giao thông?"
+    ],
+    "correct_answer": "5. Trong hình dưới đây, xe nào chấp hành đúng quy tắc giao thông?",
+    "image": "images/image86.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 236,
+    "question": "Câu 236. Theo hướng mũi tên, những hướng nào xe mô tô được phép đi?",
+    "answers": [
+      "6. Theo hướng mũi tên, những hướng nào xe mô tô được phép đi?"
+    ],
+    "correct_answer": "6. Theo hướng mũi tên, những hướng nào xe mô tô được phép đi?",
+    "image": "images/image113.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 237,
+    "question": "Câu 237. Trong trường hợp này, thứ tự xe đi như thế nào là đúng quy tắc giao thông?",
+    "answers": [
+      "Xe công an đi làm nhiệm vụ khẩn cấp, xe quân sự đi làm nhiệm vụ khẩn cấp, xe con + xe mô tô.",
+      "Xe quân sự đi làm nhiệm vụ khẩn cấp, xe công an đi làm nhiệm vụ khẩn cấp, xe con + xe mô tô.",
+      "Xe mô tô + xe con, xe quân sự đi làm nhiệm vụ khẩn cấp, xe công an đi làm nhiệm vụ khẩn cấp."
+    ],
+    "correct_answer": "Xe quân sự đi làm nhiệm vụ khẩn cấp, xe công an đi làm nhiệm vụ khẩn cấp, xe con + xe mô tô.",
+    "image": "images/image54.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 238,
+    "question": "Câu 238. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
+    "answers": [
+      "8. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?"
+    ],
+    "correct_answer": "8. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
+    "image": "images/image102.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 239,
+    "question": "Câu 239. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
+    "answers": [
+      "9. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?"
+    ],
+    "correct_answer": "9. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
+    "image": "images/image30.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 240,
+    "question": "Câu 240. Theo tín hiệu đèn, xe nào phải dừng lại là đúng quy tắc giao thông?",
+    "answers": [
+      "0. Theo tín hiệu đèn, xe nào phải dừng lại là đúng quy tắc giao thông?"
+    ],
+    "correct_answer": "0. Theo tín hiệu đèn, xe nào phải dừng lại là đúng quy tắc giao thông?",
+    "image": "images/image43.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 241,
+    "question": "Câu 241. Bạn có được phép vượt xe mô tô phía trước không?",
+    "answers": [
+      "1. Bạn có được phép vượt xe mô tô phía trước không?"
+    ],
+    "correct_answer": "1. Bạn có được phép vượt xe mô tô phía trước không?",
+    "image": "images/image92.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 242,
+    "question": "Câu 242. Theo tín hiệu đèn của xe cơ giới, xe nào vi phạm quy tắc giao thông?",
+    "answers": [
+      "2. Theo tín hiệu đèn của xe cơ giới, xe nào vi phạm quy tắc giao thông?"
+    ],
+    "correct_answer": "2. Theo tín hiệu đèn của xe cơ giới, xe nào vi phạm quy tắc giao thông?",
+    "image": "images/image63.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 243,
+    "question": "Câu 243. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
+    "answers": [
+      "3. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?"
+    ],
+    "correct_answer": "3. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
+    "image": "images/image84.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 244,
+    "question": "Câu 244. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
+    "answers": [
+      "4. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?"
+    ],
+    "correct_answer": "4. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
+    "image": "images/image78.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 245,
+    "question": "Câu 245. Các xe đi theo hướng mũi tên, xe nào chấp hành đúng quy tắc giao thông?",
+    "answers": [
+      "Xe tải, xe mô tô.",
+      "Xe khách, xe mô tô.",
+      "Xe tải, xe con.",
+      "Xe mô tô, xe con."
+    ],
+    "correct_answer": "Xe khách, xe mô tô.",
+    "image": "images/image37.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 246,
+    "question": "Câu 246. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
+    "answers": [
+      "6. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?"
+    ],
+    "correct_answer": "6. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
+    "image": "images/image8.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 247,
+    "question": "Câu 247. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
+    "answers": [
+      "7. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?"
+    ],
+    "correct_answer": "7. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
+    "image": "images/image53.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 248,
+    "question": "Câu 248. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
+    "answers": [
+      "8. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?"
+    ],
+    "correct_answer": "8. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
+    "image": "images/image7.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 249,
+    "question": "Câu 249. Xe nào dừng đúng theo quy tắc giao thông?",
+    "answers": [
+      "9. Xe nào dừng đúng theo quy tắc giao thông?"
+    ],
+    "correct_answer": "9. Xe nào dừng đúng theo quy tắc giao thông?",
+    "image": "images/image25.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  },
+  {
+    "id": 250,
+    "question": "Câu 250. Trong tình huống dưới đây, xe đầu kéo kéo rơ moóc (xe container) đang rẽ phải, xe con màu xanh và xe máy phía sau xe container đi như thế nào để bảo đảm an toàn?",
+    "answers": [
+      "0. Trong tình huống dưới đây, xe đầu kéo kéo rơ moóc (xe container) đang rẽ phải, xe con màu xanh và xe máy phía sau xe container đi như thế nào để bảo đảm an toàn?"
+    ],
+    "correct_answer": "0. Trong tình huống dưới đây, xe đầu kéo kéo rơ moóc (xe container) đang rẽ phải, xe con màu xanh và xe máy phía sau xe container đi như thế nào để bảo đảm an toàn?",
+    "image": "images/image96.jpg",
+    "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+  }
+]
