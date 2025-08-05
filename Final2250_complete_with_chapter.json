@@ -2419,9 +2419,12 @@
   {
     "id": 216,
     "question": "Câu 216. Theo hướng mũi tên, xe nào chấp hành đúng quy tắc giao thông?",
-    "answers": [],
-    "correct_answer": null,
-    "image": null,
+    "answers": ["Xe khách, xe tải, xe mô tô.",
+                "Xe tải, xe mô tô.",
+                "Chỉ xe con."
+],
+    "correct_answer": "Chỉ xe con.",
+    "image": "images/image66.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
   {
@@ -2454,9 +2457,10 @@
     "id": 219,
     "question": "Câu 219. Trường hợp này xe nào được quyền đi trước?",
     "answers": [
-      "9. Trường hợp này xe nào được quyền đi trước?"
+      "Xe mô tô.",
+      "Xe con."
     ],
-    "correct_answer": "9. Trường hợp này xe nào được quyền đi trước?",
+    "correct_answer": "Xe con",
     "image": "images/image10.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2464,9 +2468,10 @@
     "id": 220,
     "question": "Câu 220. Xe nào được quyền đi trước trong trường hợp này?",
     "answers": [
-      "0. Xe nào được quyền đi trước trong trường hợp này?"
+      "Xe mô tô.",
+      "Xe cứu thương đi làm nhiệm vụ cấp cứu."
     ],
-    "correct_answer": "0. Xe nào được quyền đi trước trong trường hợp này?",
+    "correct_answer": "Xe cứu thương đi làm nhiệm vụ cấp cứu.",
     "image": "images/image114.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2474,9 +2479,10 @@
     "id": 221,
     "question": "Câu 221. Theo tín hiệu đèn, xe nào được phép đi?",
     "answers": [
-      "1. Theo tín hiệu đèn, xe nào được phép đi?"
+      "Xe con và xe khách.",
+      "Xe moto"
     ],
-    "correct_answer": "1. Theo tín hiệu đèn, xe nào được phép đi?",
+    "correct_answer": "Xe con và xe khách.",
     "image": "images/image29.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2484,19 +2490,23 @@
     "id": 222,
     "question": "Câu 222. Theo tín hiệu đèn, xe nào đi là đúng quy tắc giao thông?",
     "answers": [
-      "2. Theo tín hiệu đèn, xe nào đi là đúng quy tắc giao thông?"
+      "Xe khách, xe mô tô.",
+      "Xe con, xe tải.",
+      "Xe tải, xe mô tô.",
     ],
-    "correct_answer": "2. Theo tín hiệu đèn, xe nào đi là đúng quy tắc giao thông?",
+    "correct_answer": "Xe con, xe tải.",
     "image": "images/image73.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
   {
     "id": 223,
-    "question": "Câu 223. Các xe đi theohướngmũi tên, những xe nào vi phạmquytắcgiao thông?",
+    "question": "Câu 223. Các xe đi theo hướng mũi tên, những xe nào vi phạm quy tắc giao thông?",
     "answers": [
-      "3. Các xe đi theohướngmũi tên, những xe nào vi phạmquytắcgiao thông?"
+      "Xe khách, xe tải, xe mô tô.",
+      "Xe tải, xe con, xe mô tô.",
+      "Xe khách, xe con, xe mô tô."
     ],
-    "correct_answer": "3. Các xe đi theohướngmũi tên, những xe nào vi phạmquytắcgiao thông?",
+    "correct_answer": "Xe khách, xe tải, xe mô tô.",
     "image": "images/image66.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2517,9 +2527,12 @@
     "id": 225,
     "question": "Câu 225. Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông?",
     "answers": [
-      "5. Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông?"
+      "Xe tải.",
+      "Xe con và mô tô.",
+      "Cả ba xe.",
+      "Xe con và xe tải.",
     ],
-    "correct_answer": "5. Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông?",
+    "correct_answer": "Xe tải.",
     "image": "images/image26.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2527,10 +2540,11 @@
     "id": 226,
     "question": "Câu 226: Theo hướng mũi tên, những hướng nào xe gắn máy được phép đi?",
     "answers": [
-      "1",
-      "2"
+      "Cả ba hướng.",
+      "Chỉ hướng 1 và 3",
+      "Chỉ hướng 1."
     ],
-    "correct_answer": "1",
+    "correct_answer": "Cả ba hướng",
     "image": "images/image6.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2538,9 +2552,12 @@
     "id": 227,
     "question": "Câu 227. Xe nào đỗ vi phạm quy tắc giao thông?",
     "answers": [
-      "7. Xe nào đỗ vi phạm quy tắc giao thông?"
+      "Cả hai xe.",
+      "Không xe nào vi phạm.",
+      "Chỉ xe mô tô vi phạm.",
+      "Chỉ xe tải vi phạm."
     ],
-    "correct_answer": "7. Xe nào đỗ vi phạm quy tắc giao thông?",
+    "correct_answer": "Cả 2 xe",
     "image": "images/image45.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2548,9 +2565,12 @@
     "id": 228,
     "question": "Câu 228. Xe nào đỗ vi phạm quy tắc giao thông?",
     "answers": [
-      "8. Xe nào đỗ vi phạm quy tắc giao thông?"
+      "Chỉ xe mô tô.",
+      "Chỉ xe tải.",
+      "Cả ba xe.",
+      "Chỉ xe mô tô và xe tải."
     ],
-    "correct_answer": "8. Xe nào đỗ vi phạm quy tắc giao thông?",
+    "correct_answer": "Cả 3 xe",
     "image": "images/image9.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2558,9 +2578,10 @@
     "id": 229,
     "question": "Câu 229. Xe nào được quyền đi trước trong trường hợp này?",
     "answers": [
-      "9. Xe nào được quyền đi trước trong trường hợp này?"
+      "Xe con.",
+      "Xe mô tô."
     ],
-    "correct_answer": "9. Xe nào được quyền đi trước trong trường hợp này?",
+    "correct_answer": "Xe mô tô.",
     "image": "images/image94.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2581,9 +2602,10 @@
     "id": 231,
     "question": "Câu 231. Xe nào được quyền đi trước trong trường hợp này?",
     "answers": [
-      "1. Xe nào được quyền đi trước trong trường hợp này?"
+      "Xe mô tô.",
+      "Xe con.",
     ],
-    "correct_answer": "1. Xe nào được quyền đi trước trong trường hợp này?",
+    "correct_answer": "Xe mô tô.",
     "image": "images/image82.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2591,9 +2613,12 @@
     "id": 232,
     "question": "Câu 232. Xe nào vi phạm quy tắc giao thông?",
     "answers": [
-      "2. Xe nào vi phạm quy tắc giao thông?"
+      "Xe khách.",
+      "Xe mô tô.",
+      "Xe con.",
+      "Xe con và xe mô tô."
     ],
-    "correct_answer": "2. Xe nào vi phạm quy tắc giao thông?",
+    "correct_answer": "Xe con.",
     "image": "images/image62.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2601,9 +2626,11 @@
     "id": 233,
     "question": "Câu 233. Các xe đi như thế nào là đúng quy tắc giao thông?",
     "answers": [
-      "3. Các xe đi như thế nào là đúng quy tắc giao thông?"
+      "Các xe ở phía tay phải và tay trái của người điều khiển được phép đi thẳng.",
+      "Cho phép các xe ở mọi hướng được phép rẽ phải.",
+      "Tất cả các xe phải dừng lại trước ngã tư, trừ những xe đã ở trong ngã tư được phép tiếp tục đi.",
     ],
-    "correct_answer": "3. Các xe đi như thế nào là đúng quy tắc giao thông?",
+    "correct_answer": "Tất cả các xe phải dừng lại trước ngã tư, trừ những xe đã ở trong ngã tư được phép tiếp tục đi.",
     "image": "images/image118.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2611,9 +2638,12 @@
     "id": 234,
     "question": "Câu 234. Theo hướng mũi tên, xe nào được phép đi?",
     "answers": [
-      "4. Theo hướng mũi tên, xe nào được phép đi?"
+      "Xe mô tô, xe con.",
+      "Xe con, xe tải.",
+      "Xe mô tô, xe tải.",
+      "Cả ba xe.",
     ],
-    "correct_answer": "4. Theo hướng mũi tên, xe nào được phép đi?",
+    "correct_answer": "Xe mô tô, xe tải.",
     "image": "images/image23.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2621,9 +2651,11 @@
     "id": 235,
     "question": "Câu 235. Trong hình dưới đây, xe nào chấp hành đúng quy tắc giao thông?",
     "answers": [
-      "5. Trong hình dưới đây, xe nào chấp hành đúng quy tắc giao thông?"
+      "Chỉ xe khách, xe mô tô.",
+      "Tất cả các loại xe trên.",
+      "Không xe nào chấp hành đúng quy tắc giao thông."
     ],
-    "correct_answer": "5. Trong hình dưới đây, xe nào chấp hành đúng quy tắc giao thông?",
+    "correct_answer": "Tất cả các loại xe trên.",
     "image": "images/image86.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2631,9 +2663,12 @@
     "id": 236,
     "question": "Câu 236. Theo hướng mũi tên, những hướng nào xe mô tô được phép đi?",
     "answers": [
-      "6. Theo hướng mũi tên, những hướng nào xe mô tô được phép đi?"
+      "Cả ba hướng.",
+      "Hướng 1 và 2.",
+      "Hướng 1 và 3.",
+      "Hướng 2 và 3."
     ],
-    "correct_answer": "6. Theo hướng mũi tên, những hướng nào xe mô tô được phép đi?",
+    "correct_answer": "Hướng 1 và 3.",
     "image": "images/image113.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2653,9 +2688,12 @@
     "id": 238,
     "question": "Câu 238. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
     "answers": [
-      "8. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?"
+      "Xe con (E), xe mô tô (C).",
+      "Xe tải (A), xe mô tô (D).",
+      "Xe khách (B), xe mô tô (C).",
+      "Xe khách (B), xe mô tô (D)"
     ],
-    "correct_answer": "8. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
+    "correct_answer": "Xe con (E), xe mô tô (C).",
     "image": "images/image102.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2663,9 +2701,12 @@
     "id": 239,
     "question": "Câu 239. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
     "answers": [
-      "9. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?"
+      "Xe con (B), xe mô tô (C).",
+      "Xe con (A), xe mô tô (C).",
+      "Xe con (E), xe mô tô (D).",
+      "Tất cả các loại xe trên."
     ],
-    "correct_answer": "9. Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
+    "correct_answer": " Xe con (E), xe mô tô (D).",
     "image": "images/image30.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2673,9 +2714,11 @@
     "id": 240,
     "question": "Câu 240. Theo tín hiệu đèn, xe nào phải dừng lại là đúng quy tắc giao thông?",
     "answers": [
-      "0. Theo tín hiệu đèn, xe nào phải dừng lại là đúng quy tắc giao thông?"
+      "Xe khách, xe mô tô.",
+      "Xe tải, xe mô tô.",
+      "Xe con, xe tải."
     ],
-    "correct_answer": "0. Theo tín hiệu đèn, xe nào phải dừng lại là đúng quy tắc giao thông?",
+    "correct_answer": "Xe con, xe tải.",
     "image": "images/image43.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2683,9 +2726,10 @@
     "id": 241,
     "question": "Câu 241. Bạn có được phép vượt xe mô tô phía trước không?",
     "answers": [
-      "1. Bạn có được phép vượt xe mô tô phía trước không?"
+      "Cho phép.",
+      "Không được vượt.",
     ],
-    "correct_answer": "1. Bạn có được phép vượt xe mô tô phía trước không?",
+    "correct_answer": "Không được vượt.",
     "image": "images/image92.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2693,9 +2737,12 @@
     "id": 242,
     "question": "Câu 242. Theo tín hiệu đèn của xe cơ giới, xe nào vi phạm quy tắc giao thông?",
     "answers": [
-      "2. Theo tín hiệu đèn của xe cơ giới, xe nào vi phạm quy tắc giao thông?"
+      "Xe mô tô.",
+      "Xe ô tô con.",
+      "Không xe nào vi phạm.",
+      " Cả hai xe."
     ],
-    "correct_answer": "2. Theo tín hiệu đèn của xe cơ giới, xe nào vi phạm quy tắc giao thông?",
+    "correct_answer": "Cả hai xe.",
     "image": "images/image63.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2703,9 +2750,11 @@
     "id": 243,
     "question": "Câu 243. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
     "answers": [
-      "3. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?"
+      "Xe con.",
+      "Xe tải.",
+      "Xe con, xe tải."
     ],
-    "correct_answer": "3. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
+    "correct_answer": "Xe tải.",
     "image": "images/image84.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2713,9 +2762,12 @@
     "id": 244,
     "question": "Câu 244. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
     "answers": [
-      "4. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?"
+      "Xe con, xe tải, xe khách.",
+      "Xe tải, xe khách, xe mô tô.",
+      "Xe khách, xe mô tô, xe con.",
+      "Cả bốn xe.",
     ],
-    "correct_answer": "4. Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
+    "correct_answer": "Xe tải, xe khách, xe mô tô.",
     "image": "images/image78.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2736,9 +2788,11 @@
     "id": 246,
     "question": "Câu 246. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
     "answers": [
-      "6. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?"
+      "Xe của bạn, xe mô tô, xe con.",
+      "Xe con, xe của bạn, xe mô tô.",
+      "Xe mô tô, xe con, xe của bạn."
     ],
-    "correct_answer": "6. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
+    "correct_answer": "Xe mô tô, xe con, xe của bạn.",
     "image": "images/image8.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2746,9 +2800,11 @@
     "id": 247,
     "question": "Câu 247. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
     "answers": [
-      "7. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?"
+      "Xe của bạn, xe mô tô, xe con.",
+      " Xe con, xe của bạn, xe mô tô.",
+      "Xe mô tô, xe con, xe của bạn.",
     ],
-    "correct_answer": "7. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
+    "correct_answer": "Xe con, xe của bạn, xe mô tô.",
     "image": "images/image53.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2756,9 +2812,11 @@
     "id": 248,
     "question": "Câu 248. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
     "answers": [
-      "8. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?"
+      "Xe của bạn, xe mô tô, xe đạp.",
+      "Xe mô tô, xe đạp, xe của bạn.",
+      "Xe đạp, xe mô tô, xe của bạn."
     ],
-    "correct_answer": "8. Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
+    "correct_answer": "Xe đạp, xe mô tô, xe của bạn.",
     "image": "images/image7.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2766,9 +2824,11 @@
     "id": 249,
     "question": "Câu 249. Xe nào dừng đúng theo quy tắc giao thông?",
     "answers": [
-      "9. Xe nào dừng đúng theo quy tắc giao thông?"
+      "Xe con.",
+      "Xe mô tô.",
+      "Cả 2 xe đều đúng."
     ],
-    "correct_answer": "9. Xe nào dừng đúng theo quy tắc giao thông?",
+    "correct_answer": "Xe con.",
     "image": "images/image25.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   },
@@ -2776,9 +2836,11 @@
     "id": 250,
     "question": "Câu 250. Trong tình huống dưới đây, xe đầu kéo kéo rơ moóc (xe container) đang rẽ phải, xe con màu xanh và xe máy phía sau xe container đi như thế nào để bảo đảm an toàn?",
     "answers": [
-      "0. Trong tình huống dưới đây, xe đầu kéo kéo rơ moóc (xe container) đang rẽ phải, xe con màu xanh và xe máy phía sau xe container đi như thế nào để bảo đảm an toàn?"
+      "Vượt về phía bên phải để đi tiếp.",
+      "Giảm tốc độ chờ xe container rẽ xong rồi tiếp tục đi.",
+      "Vượt về phía bên trái để đi tiếp."
     ],
-    "correct_answer": "0. Trong tình huống dưới đây, xe đầu kéo kéo rơ moóc (xe container) đang rẽ phải, xe con màu xanh và xe máy phía sau xe container đi như thế nào để bảo đảm an toàn?",
+    "correct_answer": "0Giảm tốc độ chờ xe container rẽ xong rồi tiếp tục đi.",
     "image": "images/image96.jpg",
     "chapter": "CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
   }
